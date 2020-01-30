@@ -1,0 +1,255 @@
+
+  "took" : 109,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 18309,
+    "max_score" : 728.3306,
+    "hits" : [
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "15441",
+        "_score" : 227.43597,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Cognitive Heterogeneous Architecture for Industrial IoT CHARIOT will provide a design method and cognitive computing platform supporting a unified approach towards Privacy Security and Safety PSS of IoT Systems including the following innovations  A Privacy and security protection method building on state of the art Public Key Infrastructure PKI technologies to enable the coupling of a preprogrammed private key deployed to IoT devices with a corresponding private key on Blockchain system A Blockchain ledger in which categories of IoT physical operational and functional changes are both recorded and affirmedapproved by a combination of a cognitive engine and private key hashing between the cognitive engine and IoT devices to authorise change and likewise invalidating any and all other changes be they malicious or otherwise   A fogbased decentralised infrastructure for Firmware Security integrity checking that leverages a Blockchain ledger to enhance physical operational and functional security of IoT systems including actuation and deactivation  An accompanying IoT Safety Supervision Engine providing a novel solution to the challenges of securing IoT data devices and functionality in new and existing industryspecific safety critical systems   A Cognitive System and Method with accompanying supervision analytics and prediction models enabling high security and integrity of Industrials IoT New methods and tools for static code analysis of IoT devices resulting in more efficient secure and safer IoT software development and VVThree Living Labs will demonstrate realistic and compelling heterogeneous solutions through industry reference implementations at representative scale with the underlying goal of demonstrating that Secure Privacy Mediated and Safety IoT imperatives are collectively met in turn delivering a key stepping stone to the EUs roadmap for the next generation IoT platforms and services",
+          "Rcn" : "212490",
+          "Acronym" : "CHARIOT"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "15435",
+        "_score" : 222.58731,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "IoTCrawler The Internet of Things offers an incredible innovation potential for developing smarter applications and services transforming business models and impacting our society both positively To be able to unlock IoTs full potential many fundamental technological challenges still need to be solved Today we see solutions in the development of vertical applications and services reflecting what used to be the early days of the web leading to fragmentation and intranets of ThingsTo achieve an open IoT ecosystem of systems and platforms several key enablers are needed adaptive and scalable crawling indexing semantic dataservice search and integration privacy and security combined with real world and largescale enablers and products driven by innovative usecase scenarios and new business modelsIoTCrawler will focus on integration and interoperability across different platforms dynamic and reconfigurable solutions for discovery and integration of data and services from legacy and new systems adaptive privacyaware and secure algorithms and mechanisms for crawling indexing search in distributed IoT systemsIoTCrawler will provide extensive development and demonstrations with a focus on Industry 40 Social IoT Smart City and Smart Energy IoTCrawler will seek to provide high impact through research excellence innovation and technology advancement It will address open challenges and issues in crawling discovery indexing semantic integration and securityprivacytrust for an IoT ecosystem IoTCrawler will achieve this through enduser engagement via its industry and city partners trials and collaborative scenario developments validations and show casing IoTCrawler will also offer new business models and will extend the product line of industry and SME partners and will create a wider awareness and thirdparty exploitation via dissemination and standardisation activities and by providing open and generic enablers and APIs",
+          "Rcn" : "212484",
+          "Acronym" : "IoTCrawler"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "6019",
+        "_score" : 216.82138,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Symbiosis of smart objects across IoT environments Connected smart objects have invaded our everyday life across multiple domains eg home withautomation solutions assisted living with sensors and wearables to monitor personal activities smart transportation and environmental monitoring IoT is evolving around a plethora of vertically isolated platforms each specifically suited to given scenarios and often adopting nonstandard sometimes fully proprietary protocols to control the variety of sensors actuators and communication elements symbIoTe comes to evolve this fragmented environment and provides an abstraction layer for a unified control view on various IoT platforms and sensingactuating resources symbIoTe designs and develops an IoT orchestration middleware capable of unified and secure access to physical and virtualized IoT resources hierarchical and orchestrated discovery and control across multiple IoT platforms federation of IoT controllers and resources for cooperative sensingactuation tasks seamless roaming of smart objects across smart spaces symbIoTe builds its orchestration middleware on top of existing standards for protocols and interfaces plus a number IoT platforms both proprietary ie developed by its industrial partners and from open source eg OpenIoT This unique set of backgrounds and foreground can result in a significant step forward in horizontal integration and federation of IoT domains Five use cases with real large scale deployments have been selected to validate our vision in representative smart spaces homeresidence educational campus stadium mobility and yachting Engagement with real users is key in our validation process With its research symbIoTe can enable innovative business models for a large set of stakeholders of the IoT value chain and particularly SMEs and new entrants in the IoT market The consortium includes direct beneficiaries of these impacts including small and large industry with IoT business and renowned research performers",
+          "Rcn" : "199859",
+          "Acronym" : "symbIoTe"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "10243",
+        "_score" : 212.05466,
+        "_source" : {
+          "identifier" : "H2020IOT2016",
+          "Text" : "CROSS FERTILISATION THROUGH ALIGNMENT SYNCHRONISATION AND EXCHANGES FOR IoT CREATEIoTs aim is to stimulate collaboration between IoT initiatives foster the take up of IoT in Europe and support the development and growth of IoT ecosystems based on open technologies and platforms This requires synchronisation and alignment on strategic and operational terms through frequent multidirectional exchanges between the various activities under the IoT Focus Areas FAs It also requires cross fertilisation of the various IoT Large Scale Pilots LSPs for technological and validation issues of common interest across the various application domains and use cases CREATEIoT will align the activities with the Alliance for Internet of Things Innovation AIOTI and will coordinate and support the upcoming LSPs in sustaining the ecosystems developed during those projects through mapping the pilot architecture approaches address interoperability and standards approaches at technical and semantic levels for object connectivity protocols data formats privacy security trusted IoT open APIs and share the roadmapping with international initiatives  The project will foster the exchange on requirements for legal accompanying measures development of common methodologies and KPI for design testing and validation and for success and impact measurement federation of pilot activities and transfer to other pilot areas facilitating the access for IoT entrepreneursAPI developersmakers SMEs including combination of ICT  Art CREATEIoT will build strong connections with Member States initiatives and other initiatives and will transfer learning points to the broader IoT policy framework that include contractual PPPs eg Big Data Factories of the Future 5Ginfrastructure Joint Technology Initiatives eg ECSEL European Innovation Partnerships eg on Smart Cities as well as other FAs eg on Autonomous transport It will also maintain a coordinated working relationship with the parallel CSA that is centere on RRISSH",
+          "Rcn" : "206371",
+          "Acronym" : "CREATE-IoT"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "1259",
+        "_score" : 211.55685,
+        "_source" : {
+          "identifier" : "H2020LCE20143",
+          "Text" : "Prosumer Flexibility Services for Smart Grid Management The advent of distributed power sources such as photovoltaics and windmill plants gave rise to energy prosumers producersconsumers which generate and consume electrical energy Energy demand and energy generation by prosumers are volatile and can impact the grid infrastructure and stakeholders but they can be flexibly adapted to thwart those impactsFlex4Grid aims at creating an open data and service framework that enables a novel concept of managing flexibility of prosumer demand and generation utilising cloud computing for power grid management and opening DSO infrastructure for aggregator services The system will be built up from existing ICT components developed by the consortium partners over many years in research projects on IoT and Cloud computing This high maturity allows Flex4Grid to aim for a system prototype of TRL 7 which guarantees a maximum impact and competitiveness in the area of the smart grid challengeThe Flex4Grid system will include a a data cloud service with anonymised interface and advanced security and privacy mechanisms for data exchange and service management b prosumer generation and demand flexibility and c a more viable business model to accelerate the deployment The major innovations are a opening the market for new entrants by secure and privacy enabling third party cloud data and energy management services b actionable common and multilevel data management and analytics services for Smart Grids and c the use of cocreation to bring end users into the value creation processSystem validation will be carried out in realworld pilots in three live electricity networks with different scenarios ranging from deployment during smart meter rollout and retrofitting to large scale operation and federated demonstration of multisite pilots",
+          "Rcn" : "194427",
+          "Acronym" : "Flex4Grid"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "10259",
+        "_score" : 210.57782,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Decentralised Citizens Owned Data Ecosystem Todays Internet is becoming increasingly centralised slowing innovation and challenging its potential to revolutionise society and the economy in a pluralistic manner DECODE will develop practical alternatives through the creation evaluation and demonstration of a distributed and open architecture for managing online identity personal and other data and collective governance in a citizenfriendly and privacyaware fashion Strong digital rights that makes it possible for data subjects to determine access rights to their information through flexible entitlements and open standardbased agreements regarding data governance on the model of Creative Commons licenses will be woven into the technological architectureDECODE will increase digital sovereignty of European citizens by enabling them to produce access and control their data and exchange contextualised information in realtime and in a confidential and scalable manner DECODE will develop a modular privacyaware IoT hub with a free and open source operating system backed by a state of the art blockchain infrastructure supporting smartcontracts and privacy protectionsThe architecture will be demonstrated through four pilots in Barcelona and Amsterdam in the field of digital democracy citizen sensing and collaborative economy The pilots will be run with the active involvement of social entrepreneurs hackers and makers Innovators will be able to build solutions on top of the platform through hackathons and open challenges while ensuring their security resilience and privacy preserving qualities This aims to create a decentralised innovation ecosystem that will attract a critical mass able to shift the current centralised datadriven economy towards a decentralised sustainable and commonsbased economy DECODE puts agency and data control in the hands of citizens to improve citizens wellbeing and society for the collective benefit of all",
+          "Rcn" : "206387",
+          "Acronym" : "DECODE"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "6013",
+        "_score" : 210.42181,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Adoptive Gateways for dIverse muLtiple Environments AGILE project aims to create an open flexible and widely usable IoT solution at disposal of industries startups SMEs tech companies and individuals researchers makers entrepreneurs as a framework that consists of A modular IoT gateway enabling various types of devices wearables home appliances sensors actuators etc to be connected with each other and to the Internet Data management and device control maximizing security and privacy at local level and in the cloud technologies and methodologies to better manage data privacy and ownership in the IoT Support of various open and private clouds Recommender and visual developers interfaces enabling easy creation of applications to manage connected devices and data Support of mainstream IoTM2M protocols and SDKs from different standardization bodies for device discovery and communication Two separate gateway hardware versions a the makers version based on the popular RaspberryPi platform for easily prototyping and attracting the current community b the industrial version for more industrial and productionready applications  An ecosystem of IoT applications shareable among users and developers leveraging on existing initiatives by key stakeholders in this domain like Canonical and Ubuntu Snappy IoT ecosystemPiloted in relevant open areas fields and in a port for field  cattle monitoring through drones air quality  pollution monitoring and in smart retail AGILE will be easily adaptable and usable in different contexts serving as an horizontal technology for fast IoT prototyping and engineering in different domains Following an open hardwaresoftware approach harnessing the power of IoT developers and entrepreneurs communities AGILE aims to offer tools to overcome limitations imposed by closed and vertical walled gardens for IoT apps development offering a fully open platform for integration and adaptation with 3rd parties enabling a new marketplace for IoT apps",
+          "Rcn" : "199853",
+          "Acronym" : "AGILE"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "16305",
+        "_score" : 207.2735,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Smart Endtoend Massive IoT Interoperability Connectivity and Security SEMIoTICS aims to develop a patterndriven framework built upon existing IoT platforms to enable and guarantee secure and dependable actuation and semiautonomic behaviour in IoTIIoT applications Patterns will encode proven dependencies between security privacy dependability and interoperability SPDI properties of individual smart objects and corresponding properties of orchestrations involving them The SEMIoTICS framework will support crosslayer intelligent dynamic adaptation including heterogeneous smart objects networks and clouds addressing effective adaptation and autonomic behaviour at field edge and infrastructure backend layers based on intelligent analysis and learning To address the complexity and scalability needs within horizontal and vertical domains SEMIoTICS will develop and integrate smart programmable networking and semantic interoperability mechanisms The practicality of the above approach will be validated using three diverse usage scenarios in the areas of renewable energy addressing IIoT healthcare focusing on humancentric IoT and smart sensing covering both IIoT and IoT and will be offered through an open APISEMIoTICS consortium consists of strong European industry Siemens Engineering STMicroelectronics innovative SMEs Sphynx Iquadrat BlueSoft and academic partners FORTH Uni Passau CTTC covering the whole value chain of IoT local embedded analytics and their programmable connectivity to the cloud IoT platforms with associated security and privacy The consortium is striving for a common vision of creating EUs technological capability of innovative IoT landscape both at European and international level",
+          "Rcn" : "213548",
+          "Acronym" : "SEMIoTICS"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "10849",
+        "_score" : 205.22617,
+        "_source" : {
+          "identifier" : "H2020DSLEIT2016",
+          "Text" : "Advanced Networked Agents for Security and Trust Assessment in CPSIOT Architectures The main objective of the ANASTACIA is to address the constant discovery of vulnerabilities in ICT components providing assurance that ICT systems are secure and trustworthy by design To this end ANASTACIA will research and develop a holistic security framework which will address all the phases of the ICT Systems Development Lifecycle and will be able to take autonomous decisions using new networking technologies SDNNFV and dynamic security enforcement and monitoring methodologies and toolsThe ANASTACIA framework will include a comprehensive suite of tools and enablers A security development paradigm based on the compliance to security best practices and the use of the security components and enablers A suite of distributed trust and security components and enablers able to dynamically orchestrate and deploy user security policies and actions within complex and dynamic CPS and IoT architectures  Online monitoring and testing techniques that will allow more automated adaptation of the system to mitigate new and unexpected security vulnerabilities A holistic Dynamic Security and Privacy Seal combining security and privacy standards and real time monitoring and online testing This will provide quantitative and qualitative runtime evaluation of privacy risks and security levels which can be easily understood and controlled by the final usersANASTACIA results will be driven and demonstrated in three high impact Use Cases Mobile Edge Computing Smart Building and IoT networksBringing together leading partners with wideranging expertise the ANASTACIA Consortium will combine the philosophy and business models of communication technologies with inherently integrated security and privacy solutions creating a security framework where the end users will be able to control their security and privacy policies enforcement and application developers in particular SMEs will find an open and sustainable ecosystem for secure SLCD",
+          "Rcn" : "207199",
+          "Acronym" : "ANASTACIA"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "15920",
+        "_score" : 203.15956,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Secure and Safe Internet of Things The IoT is coming upon us faster than we think catapulting EU industry homes and society into the huge arena of security risks that accompany an untested yet already universal technology that directly manages our cyberphysical reality on a daily and indeed second by second basis Attacks on content and quality of service of the IoT platforms can have economic energetic and physical security consequences that go way beyond the traditional Internets claimed lack of security and beyond the threats posed by attacks to mobile telephony The secure SerIoT platform is a key step that can be used to implement secure IoT platforms and networks anywhere and everywhere The SerIoT project will develop implement and test a generic IoT framework based on an adaptive smart Software Defined Network with verified software secure routers advanced analytics and user friendly visual analytics SerIoT will optimize the information security in IoT platforms and networks in a holistic crosslayered manner ie IoT platforms  devices honeypots SDN routers and operators controller that will be based both on dynamic and distributed processing of variable complexity by single network components ie IoT platforms devices and honeypots will perform lightweighted processes while SDN routers will be shouldered with more heavy processes as well as on a centrally located servercontroller that will have the main control of the network and will collect aggregate and fuse the relevant information Largescale pilots will test SerIoT technology in various use cases including intelligent transport and surveillance flexible manufacturing within Industrie 40 and other emerging domains such as food chain  logistics mHealth both at Home  in Hospitals business scenarios and energy smart gridThrough these technology developments and testbeds the project will deliver a unique portable softwarebased SerIoT network that can spearhead Europes success in the IoT",
+          "Rcn" : "213102",
+          "Acronym" : "SerIoT"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "10464",
+        "_score" : 199.80397,
+        "_source" : {
+          "identifier" : "H2020IOT2016",
+          "Text" : "Internet of Food and Farm 2020 The IoF2020 project is dedicated to accelerate adoption of IoT for securing sufficient safe and healthy food and to strengthen competitiveness of farming and food chains in EuropeIt will consolidate Europes leading position in the global IoT industry by fostering a symbiotic ecosystem of farmers food industry technology providers and research institutesThe IoF2020 consortium of 73 partners led by Wageningen UR and other core partners of previous key projects such as FIWARE and IoTA will leverage the ecosystem and architecture that was established in those projectsThe heart of the project is formed by 19 use cases grouped in 5 trials with end users from the Arable Dairy Fruits Vegetables and Meat verticals and IoT integrators that will demonstrate the business case of innovative IoT solutions for a large number of application areas A lean multiactor approach focusing on user acceptability stakeholder engagement and sustainable business models will boost technology and market readiness levels and bring end user adoption to the next stage This development will be enhanced by an open IoT architecture and infrastructure of reusable components based on existing standards and a security and privacy frameworkAnticipating vast technological developments and emerging challenges for farming and food the 4year project stays agile through dynamic budgeting and adaptive decisionmaking by an implementation board of representatives from key user organizations A 6 M midterm open call will allow for testing intermediate results and extending the project with technical solutions and test sitesA coherent dissemination strategy for use case products and project learnings supported by leading user organizations will ensure a high market visibility and an increased learning curveThus IoF2020 will pave the way for datadriven farming autonomous operations virtual food chains and personalized nutrition for European citizens",
+          "Rcn" : "206761",
+          "Acronym" : "IoF2020"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "17589",
+        "_score" : 199.37468,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2017",
+          "Text" : "Anticipatory design and ethical framework for Distributed Ledger Technologies blockchain or DAG and applications smart contracts IoTs and supply chain The proposed research analyzes the current blockchain paradox also described as a governance crisis in the emerging DLTs Distributed Ledger Technologies as a challenge of connecting prototyping practices with policy analysis and ethical deliberation which is also an important goal for the STS Science Technology and Society studies scholarship reflecting emerging technologies The research will contribute to the fields of Design methods STS scholarship and DLTs development by offering a method for involving stakeholders in the DLT design which combines prototyping reflection and stakeholder panels In this attempt to integrate technology ethics and governance we plan to identify and categorize the assumptions behind various coins and DLTs protocols and reflect upon their connections to current social and political realities The objective is to create test and evaluate an experimental framework described as anticipatory design of DLTs applications which involves the public and various stakeholders directly in the design process rather than only the adoption and implementation of smart contracts This experimental design and policy driven research will and focus on private healthbody data but also sensor data related to the environment as oracles and escrows in the smart contracts over Ethereum and IOTA platforms With anticipatory design of smart contracts we will evaluate the neglected issues of DLTs governance accountability shared responsibility division of powers or solidarity but also ethical principles deontological versus utilitarian rules and laws and future scenarios and use cases smart contracts with AI smart contracts for wearables or IoTs with a focus on environmental sensors",
+          "Rcn" : "215119",
+          "Acronym" : "AnticipatoryLedgers"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "10352",
+        "_score" : 193.90105,
+        "_source" : {
+          "identifier" : "H2020IOT2016",
+          "Text" : "ACTivating InnoVative IoT smart living environments for AGEing well ACTIVAGE is a European Multi Centric Large Scale Pilot on Smart Living Environments The main objective is to build the first European IoT ecosystem across 9 Deployment Sites DS in seven European countries reusing and scaling up underlying open and proprietary IoT platforms technologies and standards and integrating new interfaces needed to provide interoperability across these heterogeneous platforms that will enable the deployment and operation at large scale of Active  Healthy Ageing IoT based solutions and services supporting and extending the independent living of older adults in their living environments and responding to real needs of caregivers service providers and public authorities The project will deliver the ACTIVAGE IoT Ecosystem Suite AIOTES a set of Techniques Tools and Methodologies for interoperability at different layers between heterogeneous IoT Platforms and an Open Framework for providing Semantic Interoperability of IoT Platforms for AHA addressing trustworthiness privacy data protection and security Userdemand driven interoperable IoTenabled Active  Healthy Ageing solutions will be deployed on top of the AIOTES in every DS enhancing and scaling up existing services for the promotion of independent living the mitigation of frailty and preservation of quality of life and autonomy ACTIVAGE will assess the socioeconomic impact the benefits of IoTbased smart living environments in the quality of life and autonomy and in the sustainability of the health and social care systems demonstrating the seamless capacity of integration and interoperability of the IoT ecosystem and validating new business financial and organizational models for care delivery ensuring the sustainability after the project end and disseminating these results to a worldwide audience The consortium comprises industries research centres SMEs service providers public authorities encompassing the whole value chain in every Deployment Site",
+          "Rcn" : "206513",
+          "Acronym" : "ACTIVAGE"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "15915",
+        "_score" : 190.51682,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Predictive Security for IoT Platforms and Networks of Smart Objects The IoT market is currently undergoing transformation from applications involving semipassive devices operating within a single platform to applications involving smart objects with embedded intelligence while spanning multiple platforms Stateoftheart security mechanisms are not sufficient for protecting endtoend this wave of IoT applicationsSecureIoT is a joint effort of global leaders in IoT services and IoT cybersecurity to secure the next generation of dynamic decentralized IoT systems which will span spanning multiple IoT platforms and networks of smart objects through implementing a range of predictive IoT security services SecureIoT will architect predictive security services inline with leading edge reference architectures RA for IoT applications ie RAs of the Industrial Internet Consortium the OpenFog Consortium and the Platform Industrie 40 which will serve as a basis for specifying security building blocks at both the edge and the core of IoT systems SecureIoT will provide concrete implementations of security data collection security monitoring and predictive security mechanisms which will be the basis for offering integrated services for risk assessment compliance auditing against regulations and directives eg GDPR NIS ePrivacy as well as support to IoT developers based on programming annotations  The services will be open and based on the SECaaS SecurityasaService paradigmThe SecureIoT services will be challenged in market driven scenarios and use cases in the areas of smart manufacturing Industrie 40 connected cars and IoTenabled socially assistive robots Their deployment will be based on both enterprisescale globally available IoT platforms and community open source platform of the partners As part of its exploitation strategy SecureIoT will integrate a multisided market platform in order to offer SECaaS services but also to enable integration of additional security mechanisms in its ecosystem",
+          "Rcn" : "213095",
+          "Acronym" : "SecureIoT"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "15729",
+        "_score" : 190.35718,
+        "_source" : {
+          "identifier" : "H2020MSCAITN2017",
+          "Text" : "Internet of Thing for Smart Water Innovative Networks The IoT4Win will establish a European Industrial Doctorates EID training program and extend the traditional academic research training setting equipping researchers with right combination of researchrelated and transferable competences joint research training programme combines an interdisciplinary expertise of European research group industry partners and user organisations bring together all required knowledge skills and stakeholders to offer a comprehensive set of transferable skills and a training programme on ICT data science and water engineering including industry practice and longerterm benefit in further industrial partner collaborations and further knowledge transfer IoT4Win will respond to well defined and interdisciplinary scientific questions and challenges on IoTs for Smart Water Network SWN technological area cooperating  to recruit 3 ESRs to undertake research in the context of a joint research training on concepts and methodologies of IoT enabled SWN towards the PhD IoT4Win designs 3 individual and personalised research projects covering the core SWN research areas ie smart sensing and trusted communication within energy limited heterogeneous devices in IoT enabled urban water environment  dynamic sensor web and interoperable open platform with Integrated Knowledge Management for smart water networks data security and  intelligence in IoT enabled SWN The interdisciplinary collaborations and cross industrial interactions between ICT and water sector will expose researchers to the academic nonacademic sectors By combining three projects an interoperable secure and intelligent underlying technology leading to an open platform for IoT enabled SWN applications will be developed This platform will then be applied to and evaluated in the real water scenarios with our end user industrial partner leading to a specialised technology platform for SWN and a bestpractice smart water network demonstrator",
+          "Rcn" : "212859",
+          "Acronym" : "IoT4Win"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "15390",
+        "_score" : 189.75713,
+        "_source" : {
+          "identifier" : "H2020GALILEOGSA20171",
+          "Text" : "GalileObased trustEd Applications for health and SustainabilitY GNSS user technology is now widely available in mass market devices including personal devices connected vehicles Internet of Things IoT objects etc The widespread availability of GNSS receivers joint with ubiquitous communication capabilities of devices and the ability of cloudbased ICT platforms to federate with each other through open standards and APIs is enabling a new generation of Location Based Services LBS able to support highlyscalable pervasive applications where large number of geographicallydistributed users are engaged eg in immersive games and commercial services While GNSS proves to be able to support such applications successfully a major drawback prevents such approach to be used in more serious and potentially highly rewarding mass market applications ie the lack of authentication features resulting in high difficulties in preventing users from spoofing position information to gain advantages or damage other usersGOEASY will leverage unique Galileo features such as increased trust and improved availability joint with interoperability with existing Internet of Things IoT infrastructures to enable more secure and privacysavvy massmarket applications of LBSGOESY will be evaluated by means of two concrete use cases namely the ApesMobility and the AsthmaWatch both evaluated engaging real users in a mediumscale pilot in Torino Italy and Stockholm Sweden",
+          "Rcn" : "212432",
+          "Acronym" : "GOEASY"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "9499",
+        "_score" : 187.68367,
+        "_source" : {
+          "identifier" : "H2020EUK20161",
+          "Text" : "Worldwide Interoperability for SEmantics IoT While the Internet of Things is addressing a multiplicity of stillemerging standards and Alliance specifications with efforts to structure them into reference architectures the WiseIoT project gathers lead contributors from Europe and Korea to ongoing major global IoT standardisation activities with the objective to strengthen and expand emerging IoT standards and reference implementation using feedback from usercentric and contextaware pilots Based on morphing mediation gateways concept a trustbased recommendation system is proposed leveraging upon Context Information APIs enabling endtoend semantic interoperability and the dynamic distribution of analytic functions over a proposed Global IoT Services GIoTS These GIoTS provide IoT virtualisation and interaction with systems beyond IoT together with trust building and management capabilities Six testbeds from Europe and South Korea will be federated to implement smart city leisure and healthcare pilots demonstrating GIoTS based applications roaming capabilities across continents An iterative development approach is being implemented to allow requirement and architecture adjustments as well as alignment and contributions back to ongoing standardisation activities through submissions in technical committees and interoperability events support A strong plan for dissemination has been setup and will have its peak during the trials to be run at PyeongChang Olympic and Paralympic GamesThe consortium composed of prestigious research institutes SMEs and large industries from Europe and Korea and will work in tandem to contribute to the success of the WiseIoT project WiseIoT will give a particular attention to create an environment encouraging European and Korean SMEs and startups to enter the IoT industry by enabling access to a unified platform where interoperability among heterogeneous data in smart environments will be provided",
+          "Rcn" : "205576",
+          "Acronym" : "Wise-IoT"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "9368",
+        "_score" : 183.74059,
+        "_source" : {
+          "identifier" : "H2020EUJ20161",
+          "Text" : "City Platform as a Service  Integrated and Open Data has been termed to be the oil of the 21st century Data will also be what the smart city of the future runs on To make this a reality cities need a platform where data from a variety of sources  IoT and sensor data open government data social media and other 3rd party data providers  can be processed linked and analysed in order to extract valuable information that in turn can also be provided as linked open data and with which new types of services are created and provisioned Both cities as well as private service providers can build novel applications and services on top of this platform the platform thus becomes an economically valuable driver for Smart City InnovationThe main goal of this project is to develop such a City Platform as a Service CPaaS that can be federated to support regional or even global applications and that forms the basis for a smart city data infrastructure Technical challenges that need to be addressed include data provenance data quality adaptive privacy levels policies and adaptive processes for distributing and deploying processing intelligence to the cloud or to the edge Other important aspects include data governance data management and the empowerment of the citizen to control access and sharing of data about her using a MyData approach In addition to the development of the platform several use cases in the domains of event and transport management water management and health emergency services will be implemented and validated with cities in Europe and Japan Blue prints  both from a technical as well as from a process perspective  for these domains that can easily be transferred and adapted from one region to another will be developed This will for example allow transferring the learnings from the Asian Winter Games 2017 to the Tokyo Olympics 2020 And finally the results from the project are used to develop standardisation proposals in the related areas to ensure impact beyond the project",
+          "Rcn" : "205445",
+          "Acronym" : "CPaaS.io"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "15940",
+        "_score" : 183.65865,
+        "_source" : {
+          "identifier" : "H2020IOT2017",
+          "Text" : "Trustworthy and Smart Actuation in IoT systems To unleash the full potential of IoT realizing the digital society and flourishing innovations in application domains such as eHealth smart city intelligent transport systems and smart manufacturing it is critical to facilitate the creation and operation of trustworthy Smart IoT Systems Since smart IoT systems typically operate in a changing and often unpredictable environment the ability of these systems to continuously evolve and adapt to their new environment is decisive to ensure and increase their trustworthiness quality and user experience The DevOps movement advocates a set of software engineering best practices and tools to ensure Quality of Service whilst continuously evolving complex systems and foster agility rapid innovation cycles and ease of use  Therefore DevOps has been widely adopted in the software industry  However there is no complete DevOps support for trustworthy smart IoT systems today The main technical goal of ENACT is to develop novel IoT platform enablers to i Enable DevOps in the realm of trustworthy smart IoT systems and enrich it with novel concepts for endtoend security and privacy resilience and robustness strengthening trustworthiness taking into account the challenges related to collaborative actuation and actuation conflicts ii Facilitate the smooth integration of these to leverage DevOps for existing and new IoT platforms and approaches eg FIWARE SOFIA and TelluCloudThis will be accomplished by evolving current DevOps methods and techniques to support the agile development and operation of smart IoT systems and provide a set of novel mechanisms to ensure quality assurance and trustworthiness such as actuation conflict handling continuous testing and delivery across IoT edge and cloud spaces and end to end security and privacy management Through this ENACT will provide a DevOps framework for smart IoT Systems",
+          "Rcn" : "213127",
+          "Acronym" : "ENACT"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "15956",
+        "_score" : 182.3116,
+        "_source" : {
+          "identifier" : "H2020DSLEIT2017",
+          "Text" : "PrivacyEnhancing Cryptography in Distributed Ledgers Blockchain and distributed ledger technologies DLTs have emerged as one of the most revolutionary developments in recent years with the goal of eliminating centralised intermediaries and installing distributed trusted services They facilitate trustworthy trades and exchanges over the Internet power cryptocurrencies ensure transparency for documents and much moreAlthough based on cryptographic techniques at their core the currently deployed DLTs do not address privacy Indeed the very idea of a public ledger that stores a verifiable record of transactions at first appears inherently incompatible with the privacy requirements of many potential applications which use sensitive data such as trade secrets and personal information New cryptographic techniques and protocols are therefore needed to protect the data facilitate these applications and make DLTs deliver on their promisesPRIViLEDGE realises cryptographic protocols supporting privacy anonymity and efficient decentralised consensus for DLTs In PRIViLEDGE several European key players in cryptographic research and from the fintech and blockchain domains unite to push the limits of cryptographic protocols for privacy and security Results from PRIViLEDGE are demonstrated through four ledgerbased solutions 1 verifiable online voting 2 contract validation and execution for insurance 3 university diploma record ledger and 4 update mechanism for stakebased ledgers The selected use cases are diverse and represent the principal application domains of DLT this ensures wide reach and impact of the techniques developed in PRIViLEDGE beyond the immediate scope of the project",
+          "Rcn" : "213144",
+          "Acronym" : "PRIViLEDGE"
+        }
+      }
+    ]
+  }

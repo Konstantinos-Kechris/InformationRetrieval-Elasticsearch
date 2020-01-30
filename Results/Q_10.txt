@@ -1,0 +1,256 @@
+{
+  "took" : 92,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 18311,
+    "max_score" : 573.1417,
+    "hits" : [
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "6009",
+        "_score" : 160.24516,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "A DIY networking toolkit for locationbased collective awareness DoItYourself networking refers to a conceptual approach to the use of lowcost hardware and wireless technology in deploying local communication networks that can operate independently from the Internet owned and controlled by local actors MAZI means together in Greek and MAZI httpmazizoneeu invests in this paradigm of technologysupported networking as a means to bring closer together those living in physical proximity Through an experienced interdisciplinary consortium MAZI delivers a DIY networking toolkit that offers tools and guidelines for the easy deployment and customization of local networks and services MAZI toolkit is designed to take advantage of particular characteristics of DIY networking the de facto physical proximity between those connected the increased privacy and autonomy and the inclusive access Such characteristics are used to promote information exchanges that can develop the locationbased collective awareness as a basis for fostering social cohesion conviviality knowledge sharing and sustainable living To achieve this objective MAZI brings together partners from different disciplines computer networks urban planning and interdisciplinary studies humancomputer interaction community informatics and design research These academic partners will collaborate closely with four community partners to ensure that MAZI toolkit benefits from the grounded experience of citizen engagement MAZI draws from the diverse mix of competencies of its consortium to develop a transdisciplinary research framework which will guide a series of longterm pilot studies in a range of environments and enhanced by crossfertilization events The main goal of this process and measure of success is establishing DIY networking as a mainstream technology for enabling the development of collective awareness between those in physical proximity and the development of surrounding research and theorizing of this approach",
+          "Rcn" : "199849",
+          "Acronym" : "MAZI"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "1117",
+        "_score" : 148.54501,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Universal mobilecentric and opportunistic communications architecture Cars sensors home appliances every device in the daily life of citizens is becoming a constituent in Future Internet adding to the need to reconsider requirements and assumptions in terms of network availability and affordability to support the ever increasing traffic demand Still the current Internet can only evolve adequately if its infrastructure can be devised to accommodate the emerging services The increased cost of adding new infrastructure and capacity has a drastic effect on rural and remote communities as well as nomadic users as they become marginalized by not gaining access to crucial Internet services Our goal is to make the Future Internet universally pervasive supporting a diverse set of services To achieve this we develop a universal mobilecentric and opportunistic communications architecture which integrates the principles of Delay Tolerant Networking DTN and Information Centric Networking ICN in a common framework We utilize the benefits of both ICN and DTN to enable resource exploitation at minimal bandwidth opportunistic access to information and more localized access to information through novel caching strategies UMOBILE focuses on assisting users in getting access to the content they want or content that may be of shared interest to their trust circles By relying on an instance of the UMOBILE architecture users are able to share information directly with other peers without relying on infrastructure or expensive connectivity services The proposed architecture targets the mobile part of the networks extends Internet connectivity to regions that are not typically covered enhancing network resilience and is fully backward compatible with the current Internet architecture We will validate our architecture in a real world trial as well as participate strategically in carefully planned dissemination standardization and exploitation activities to ensure that our architecture transcends from the lab to real world deployments",
+          "Rcn" : "194285",
+          "Acronym" : "UMOBILE"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "1061",
+        "_score" : 145.78856,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "architectuRe for an Internet For Everybody RIFE addresses the major societal challenge of providing affordable Internet access to those who cannot afford it by solving the technological challenge to increase the efficiency of the underlying transport networks and the involved architectures and protocols The RIFE solution will harness unused transmission capacity combined with placing content caches and service functionality closer to the user and will use heterogeneous transmission opportunities that range from localized mesh and home networks over wellconnected ISP backhauls to scarce satellite resources RIFE will build upon recent advances on informationcentric and delaytolerant networking by developing optimized dissemination strategies for the involved transport networks unified within a novel communication architecture that will provide clear abstractions to application developers We will develop deploy and showcase our solution in a reallife setting within a largescale community network in Spain demonstrating the technology and economic opportunities that the RIFE platform provides We will complement our reallife testbeds with emulation scenarios to enable the evaluation of our novel resource management schemes at scale while integrating with our prototype platform On the economic side we will develop business opportunities for local authorities as well as backhaul network providers to create a sustainable value chain by introducing virtual network operators that utilize the underused capacity in a new business relationship with local customers enabling novel and often sociallydriven business models The involvement of a technology equipment as well as satellite and community network provider will allow for maximizing the commercial exploitation of RIFE within real deployments and towards standard communities within the IETFIRTF and beyond placing RIFE in the centre of a growing community of practitioners that all share the same goal making the Internet affordable to everybody",
+          "Rcn" : "194229",
+          "Acronym" : "RIFE"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "6549",
+        "_score" : 142.75742,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Understanding Collective Awareness Platforms with the Maker Movement Powerful tools provided by ICT software and hardware have revolutionised and many would claim democratised publishing broadcasting and communications Now the same is happening to manufacturing as tangible objects are created and designed as virtual bits which can be shared globally but then reproduced as things which manifest themselves locally This is the maker movementMAKEIT will study maker communities both through ten different case studies and innovation action research to enhance their use of Collective Awareness Platforms CAPs CAPs support maker communities and networks to innovate design and make physical products based on peer collaboration and sharing MAKEIT in which key maker platforms technology firms and citizen communities participate will focus on three perspectives organisation and governance of the communities their peer and collaborative activities and behaviour and their economic and societal value and impact Together the findings will inform recommendations for the maker movement itself and its implementation through CAPs and be made assessable to many other CAPs uses in areas like health education and transport MAKEIT will also offer strategic advice for industry and give recommendations for nationallevel and European policy makersA better understanding of how CAPs are central to the maker movement will enable more sustainable production and consumption patterns by generating awareness and by leveraging peer pressure for better lifestyles through behavioural and system change It will also contribute directly to constructing a more circular economy by stimulating resource efficiency reusing materials and energy and redesigning production processes to move towards zero waste CAPssupported maker communities can create new types of jobs and new ways of working both bottomup and linking to smart industry which are widely distributed across society both geographically and amongst the population",
+          "Rcn" : "200424",
+          "Acronym" : "MAKE-IT"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "8557",
+        "_score" : 141.58685,
+        "_source" : {
+          "identifier" : "ERC2015STG",
+          "Text" : "Resolving the Tussle in the Internet Mapping Architecture and Policy Making The Internet has revolutionalized the way people and corporations communicate publish access and search for information As our globallyconnected digital civilization increasingly relies on its smooth operation any disruption has a direct negative impact on both the economy and society However the Internet was not designed to serve its current role nor was foreseen to be a public good On the contrary it was designed to be fully decentralized and thus administrated by the owners of independent networks Today the various Internet players have diverse and often conflicting objectives Indeed the tussle between Internet players or between them and governments hit the news and the negative externalities affect the life of potentially billions of Internet users worldwide and harm innovation in the InternetWe propose a research agenda to resolve the tussle in the Internet First we propose the use of sophisticated techniques to collect and analyze massive network data to unveil the complex interactions among the various Internet players that lead to disputes and to identify the conditions under which conditions a resolution is possible Second we utilize additional degrees of freedom to resolve the tussle in the Internet by enabling coordination of the various Internet players To this end we introduce expressiveness of all the involved parties in existing and emerging protocols and enable agile deployment of thirdparty services and applications inside operational networks Third we contribute to the Internet policy making debate by providing an unbiased view of the state and health of the Internet as well as providing recommendations on how to resolve the Internet tussle This is an interdisciplinary effort to foster a dialogue for Internets future and sustainability in light of its everincreasing growth and competitiveness",
+          "Rcn" : "204439",
+          "Acronym" : "ResolutioNet"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "2694",
+        "_score" : 137.47957,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2014",
+          "Text" : "INnovatiVE cohereNt detecTIon Optical access Networks In the called information age digital communications play an essential role on the economy and sustainable growth of the society  Access networks are essential part of the communication infrastructure as bridge between endusers and core networks Their design must make possible the provision of realtime highbandwidth access to Internet essential for advanced communication services as immersive video and ubiquitous cloud computing It is clearly foreseen that the only longterm solution to the problem involves optical fiber as transmission medium the so called optical access networks Passive optical network PON is the most widely employed technology because of the cost reduction it entails but the capacity of actual timedivision multiplexed PONs will be exhausted eventually as more bandwidthhungry applications become available in the near future Telecommunications carriers face the challenge of meeting the unprecedented bandwidth demand by end users at the same time the capital and operating expenditures requirements are reducedINVENTION project targets the development of costeffective and high capacity communication architectures for their employment on optical accessmetro networks The proposed concept will be based on the employment of coherent detection with lowcost and simplified optical receiver architectures making sure that the proposed approaches meet the cost requirements of these optical networks The proposed concepts will be implemented by a suitable combination of optical signal processing techniques and digitalsignalprocessing DSP algorithms keeping the required DSP at realizable levels The final scope of INVENTION is the proposal of midterm and longterm solutions for the achievement of the objectives included in the digital agenda 2020 for the ICT strategy",
+          "Rcn" : "195865",
+          "Acronym" : "INVENTION"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "1142",
+        "_score" : 136.63278,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Trustful hyperlinked entities in dynamic networks The Internet revolution has changed traditional business and forces it to reinvent itself Traditional operatorenabled services are losing on their importance due to a variety of new communication services like chat and social networks which complement or supersede traditional ones like voice telephony Technical progress has minimized the need for accesscontrolled communication services and is moving instead to context based communication which is presumably available at only marginal or no additional costHowever unlike traditional telecommunication services that enable universal communication Internet communication tools are characterized by their walled garden approach where users can only communicate with users of the same application and are not free to change application without losing their data or contactsThe main goal of the reTHINK project is to design and prototype a new non telecom centric but Webcentric P2P Service Architecture enabling dynamic trusted relationships among distributed applications called Hyperlinked Entities that support usecases such as contextual and social communications M2MIoT and content oriented services This project will enable any type of service delivery through specialized endtoend network quality commitments powered by specialized P2P andor Cloud services delivered as SaaSPaaS or IaaS The major structural difference between the operators approach and the web companies is related to a recurring concept in the deployment of ICT solutions full deperimeterisation of services Operators today cannot directly compete at a global level because their services are not and cannot be provided outside of the deployed and owned network The services operators provide are tightly coupled with the networks functionalities and its geographical extension The work is performed by a consortium of 3 global telecom operators 2 SMEs 2 Universities and 2 leading research institutes coordinated by Eurescom",
+          "Rcn" : "194310",
+          "Acronym" : "reTHINK"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "1827",
+        "_score" : 135.54929,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2014",
+          "Text" : "High Capacity Space Division Multiplexing Systems Our information society relies to an unprecedented extent on broadband communication solutions such as highspeed Internet access mobile voice and data services multimedia broadcast systems etc In order to fulfil the steadily growing volume and bandwidth demand of those data services while simultaneously reducing the cost per transported information bit communication systems have been continuously improved in terms of reach and aggregate transport capacity However it is now recognised that communication systems are rapidly approaching the fundamental information capacity of current technology a trend with potential negative impact on the economy and social progress HSPACE project targets the development of advanced space division multiplexing SDM systems to unlock the capacity of future information systems by enabling the transmission of spatial superchannels over a single fibre The proposed concept will be implemented using multicore fibres MCF and fewmode fibres FMFs as underlying technology platform along with novel digital signal processing DSP techniques that minimise the modecore interference and inter modecore nonlinearities keeping the required digital processing at realizable levels HSPACE offers a continued European leadership in RTD photonics from components to systems securing the necessary human resources and knowledge to design and produce a new generation of photonic components that support EUs vision for ubiquitous broadband connectivity to promote European social and economic cohesion and prosperityThe aforementioned challenges require researchers highly trained in a number of relevant disciplines ranging from nonlinear science to highspeed optical communication techniques This fellowship will provide a gifted early career researcher with the opportunity to train at one of the foremost research centres in optical communication the Aston Institute of Photonics Technology AITP",
+          "Rcn" : "194997",
+          "Acronym" : "HSPACE"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "9619",
+        "_score" : 132.05905,
+        "_source" : {
+          "identifier" : "H2020EUJ20161",
+          "Text" : "ICN2020 Advancing ICN towards realworld deployment through research innovative applications and global scale experimentation Information access on the Internet is exploding Usage is shifting to multimedia applications social networking and IoE Cellular networks are moving to the next generation Networking technology is shifting towards virtualization with SDN and NFV likely to change the infrastructure landscape The cloud concept is transforming the Internet to a network of data centers with a communication model consisting of computertocloudtocomputer interactions Security concerns are leading to an encryption of all traffic wreaking havoc with established network mechanismsIn this scenario with dramatic growth and evolution where abstractions and interfaces become fundamental ICN is just the perfect solution ICN2020 will build on the wealth of studies performed on ICN with six main aims a design and develop a set of innovative applications such as video delivery interactive videos and social networks to exploit ICN b augment ICN with IoT features and cloudCDNvirtualization services c accordingly enhance existing ICN solutionsarchitectures d build local and global testbeds to experiment the applications services and ICN enhancements e contribute to common APIs and standards by continuing the work that project partners are already doing and f Industry POCs of products and services exploiting ICNThe ICN2020 consortium includes leading experts in ICN and contributors to ICN testbeds in EU Japan and USA thus making the goal of federating them a credible one Partners are also coordinators of running projects on 5G and Cloud topics allowing fruitful cooperation with fellow projects of the EUJP1 EUJP2 calls and increasing the overall expected impact of the EUJapan cooperation In a time when 5G networks are being designed with foreseen unprecedented flexibility due to the virtualization and slice concepts the development of compelling demonstrations of ICN for realworld usecases will encourage critical industry investment of resources",
+          "Rcn" : "205699",
+          "Acronym" : "ICN2020"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "16473",
+        "_score" : 130.12871,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "Fast IoT market takeup through The Things Networks The Things Industries TTI is a Dutch SME that focuses on the rise of the Internet of Things IoT The company expects that upon the further expansion of the digital economy a number of societal developments will greatly affect our daily life Leading in all these developments will be in the domain of the IoT which will gain a crucial place in the digital economy based on the following fundamental ideas  The digital transformation of products all products and services that can be made digital smart or automated will be  The revolution of demand and offer all traditional business models will be replaced by disruptive models  The inexhaustible need for data the digital economy will have a continuously growing need for the collection exchange and analysis of data TTI recently launched TTN the first open freetouse IoT data network solution in the world providing full coverage for the Amsterdam metropolitan region Ever since the network is being used successfully by companies and citizens of Amsterdam and the first applications on this network have been developed and demonstrated Currently over 250 strong and active communities 60 within the EU have set up local TTNnetworks all over the world TTI has established its current status with own funding awardsprizes subsidies and profits from IoTLoRaWAN gateway hardware sales and related consultancy In order to expand exponentially TTI will have to assess how to monetize its network and technology position optimally The goal of this SMEInst proposal is to assess three different business models how to monetize its technology position through to scale up and growth Specific objectives in this H2020SMEINT Phase 1 feasibility study are  Explore promising business cases for TTI networks  Evaluate the required specifications and characteristics of these applications with potential partners citizens consumers andor clients  Elaborate on a detailed business plan D1",
+          "Rcn" : "213720",
+          "Acronym" : "FITT-iN"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "234",
+        "_score" : 129.02774,
+        "_source" : {
+          "identifier" : "H2020MG2014TwoStages",
+          "Text" : "Open social transport network for urban approach to carpooling SocialCar is an Intelligent Transport System based on an innovative approach to transport demand management and more specifically to carpooling in urban and periurban areas SocialCars main objective is devopping a new communication network for intelligent mobility sharing information of carpooling integrated with existing transport and mobility systems It will be achieved by means of powerful planning algorithms and integration in a liveable environment of big data related to public transport carpooling and crowdsourcing in order to provide the final user with a simplified travel experience allowing comparison and choice between multiple optionsservicesSocialCar will take advantage Social Media to communicate share information and  provide the best justintime notifications to the travellersSocialCar will  take advantage of the ever growing connectivity of people and objects and the propagation of Internet services the potential of Future Internet and the availability of GNSS based location and social media to create an integrated mobility service with the potential to sensibly reduce mobility problems of European citizensSocialCar will capitalise on a strong pan European team with a solid background in social psychological and economic sciences the involvement of 10 European urban sites will prove the concepts validity and business case SocialCar General Objectives are to  contribute to the EU2020 targets on energy efficiency and renewable energy sources reducing congestion by improving and maximising connectivity and information in realtime  overcoming the limitations of current carpooling practices moving from long trips to effective urban and periurban use validate green driving support systems active management based on European GNSS identify a suitable big data management architecture for integrating mobility data produce a citybased open integrated mobility repository of public transport and traffic citybased data",
+          "Rcn" : "193402",
+          "Acronym" : "SocialCar"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "5752",
+        "_score" : 129.00598,
+        "_source" : {
+          "identifier" : "H2020ICT2015",
+          "Text" : "Largescale RINA benchmark on FIRE ARCFIRE will bring RINA from labs into the realworld RINA the Recursive InterNetwork Architecture is an innovative backtobasics network architecture that solves current limitations and facilitates full integration between distributed computing and networking RINA addresses the challenges that drive the communications industry in moving from dedicated hardware to almost completely virtualised infrastructure The next shift 5G on the horizon for 2020 will change the communication industry even more significantly Now is the right time for ARCFIRE to provide experimental evidence of RINAs benefits at large scale in compelling and realistic business cases thus motivating RINA adoption ARCFIRE will experimentally demonstrate RINAs key benefits integrating current EC investment in advanced networks IRATI PRISTINE and Future Internet testbeds FIRE focusing on 5 goals 1 Facilitate comparison of converged operator networks using RINA to operators current network designs 2 Produce a robust RINA software suite ready for Europe to engage in largescale deployments and longliving experiments 3 Provide relevant experimental evidence of RINA benefits to network operators their equipment vendors application developers and endusers 4 Build on the current EU Future Internet community and raise the number of organisations involved in RINA development and deployment 5 Enhance the FIRE infrastructure with ready to use RINA software ARCFIRE will have longterm sustainable impact on how we build infrastructure for the Networked Society ARCFIREs deployed software suite will enable equipment vendors to shorten their innovation life cycle network operators to run advanced networks addressing their needs in a futureproof fashion European SMEs to find and exploit specialised markets and application developers to explore unseen opportunities ARCFIREs consortium has the experience and resources to achieve these goals and provide this impact",
+          "Rcn" : "199487",
+          "Acronym" : "ARCFIRE"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "15469",
+        "_score" : 128.87912,
+        "_source" : {
+          "identifier" : "H2020INFRAIA20171twostage",
+          "Text" : "European Infrastructure Powering the Internet of Things EnABLES will integrate key European research infrastructures in powering the Internet of Things IoT 6 research institutes together with 5 knowledge hubs of excellence will address the long term needs of energy management in selfpowered smart sensor systems as required by IoT innovation To enable truly invisible unobtrusive and selfpowered autonomous wireless devices a key challenge is to bridge the gap between capturing energy supply from energy harvesting sources EH integrating new devices for energy storage ES and taking into account the micropower management MPM requirements for the miniaturised system operation Through providing access to unique infrastructure worldleading expertise advanced equipment and stateoftheart technologies EnABLES will empower several hundreds of academic researchers and technologists to advance energy harvesting storage and micropower management solutions for the integrated design and deployment of miniaturised autonomous sensors Access will range from materials  models to devices and systems and the access providers will work with the user community to accelerate adoption and innovation in reallife applications The EnABLES integration offers a paradigm shift in building an infrastructure network that links new scientific knowledge with applicationdriven research Specifically for energy management solutions this will deliver a mindset change for early concurrent and collaborative development of systemoptimised IoT devices This presents a unique opportunity for Europe to uphold global leadership in microsystem energy management and be positioned at a pivotal time at the heart of the IoT innovation",
+          "Rcn" : "212582",
+          "Acronym" : "EnABLES"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "14049",
+        "_score" : 128.52153,
+        "_source" : {
+          "identifier" : "ERC2016ADG",
+          "Text" : "Firms and Their Networks There is mounting evidence that firms are becoming more fragmented production is less often made inhouse Firms buy inputs from abroad Tasks are often split in parts Some are offshored others are subcontracted Hence firms buy services from other local or international firms But they also supply inputs to other firms Technical change the internet and globalization all facilitate this transformation In order to better understand how firms thrive in the new global environment the proposed research aims to construct a networks view of the firm Fragmentation offers new opportunities firms may specialize in what they make best hence creating a business network of customers and suppliers Networks are also useful to secure provision of fragmented tasks The firms suppliers of goods and services  accountants logisticians consultants  may well be related to the firm through its workers social networks family ties boardroom relations These social networks should be useful when times are tough  board members could help find financing in banks where their schoolmates have a job  or when times are unusually good  employees could help in spotting the right hires among their former coworkers The proposed research will focus on how firms social and business networks help firms to be resilient in the face of shocks Resilience will be measured using the firms and workers outcomes  valueadded wages employment or occupations The research will have a theoretical component using general equilibrium models with heterogeneous firms an empirical component with unique data sources from at least two countries France Sweden and an econometric theory component which will seek to develop techniques for the study of manytoone matches in the presence of networks The research will speak to the labor economics community but also to the international trade community the management community as well as the econometrics community",
+          "Rcn" : "210977",
+          "Acronym" : "FIRMNET"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "1026",
+        "_score" : 128.24167,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Digital Do It Yourself Digital do it yourself DiDIY is a new sociotechnological phenomenon in which the widespread availability of digital devices supporting the convergence of physical and informational components and the growing accessibility of knowledge and data through open online communities presage scenarios in which the distinction between users and producers of physical artefacts is fuzzy and new opportunities and threats emerge DiDIYrelated technologies and social practices amplify the creativity and skills of individuals who affordably develop digitally selfmade objects eg uniquebydesign objects designed by 3D modelling software and generated by 3D printers or networked smart objects equipped with microcontrollers dealing with context information via sensors and actuators Two network effects catalyse DiDIY what is custom produced by an individual could be the outcome of contributions from a worldwide community of developers sharing their interest towards open innovation thus operating as knowledge multiplier what is made available here and now by a smart object could be the aggregation of signals from a set of sources in the network thus operating as information extenderIn this presumed industrial revolution the project aims at Setting a conceptual framework to explore the impact of DiDIY Producing information models and guidelines to support education and policy making on DiDIY that while enabled by technology should be driven by social and cultural strategiesThe project will study how DiDIY is Reshaping organization and work education and research Impacting on social and legal systems Changing creative design and ethicsThe development of a systemic interpretation is the challenge for the multidisciplinary project team which will collaboratively explore a complex phenomenon with implications on identity privacy reputation responsibility and safety and will offer a roadmap fostering a DiDIYbased humancentric European development",
+          "Rcn" : "194194",
+          "Acronym" : "DiDIY"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "16154",
+        "_score" : 127.623985,
+        "_source" : {
+          "identifier" : "H2020INFRAIA20171twostage",
+          "Text" : "Research Infrastructure on Religious Studies ReIReS is a starting community whose aim is to create a unique and groundbreaking research infrastructure RI on religious studies within the European Research Area It joints the major European research institutions working in the domain universities libraries archives academies research institutions and museums to improve the access of scholars from all over the world to the data information and sources concerning the study of the historical and cultural influence of the plural religious heritage in the European history Furthermore it joints research activities of the partners integrating complementary scientific skills and capabilities and it organizes networking activities for fostering a culture of cooperation between national research facilities scientific communities and other stakeholders including policy makers ReIReS creates a synergy between the partners offering a transnational and virtual access to the most significant tools and sources in the field of religious studies This grants to the research communities the use of the major tools joint within a comprehensive infrastructure and gives to the EU a leading role in a domain which is becoming more and more crucial for the understanding of intercultural dynamics and facing conflicts of our time Dealing with the need for an appropriate comprehension of a complex and multicultural society ReIReS consortium works towards the improvement of the integrated services of the partners It aims to establish a distributed RI with a sustainable plan of activities including offering access to a wide range of highlevel data and tools for advancing knowledge and innovation in the understanding of interreligious society",
+          "Rcn" : "213376",
+          "Acronym" : "ReIReS"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "15780",
+        "_score" : 127.51627,
+        "_source" : {
+          "identifier" : "H2020SC52017OneStageB",
+          "Text" : "An Ecosystem of Citizen Observatories for Environmental Monitoring The rising trend in citizen science has led to the development of Citizen Observatories COs for environmental monitoring which have been supported in FP7 and H2020 To improve the coordination between existing COs and related regional European and international activities the WeObserve Coordination and Support Action will tackle three key challenges that face COs awareness acceptability and sustainability The WeObserve mission is to create a sustainable ecosystem of COs that can systematically address these identified challenges and help move citizen science into the mainstream The WeObserve approach will apply several key instruments to target connect and coordinate relevant stakeholders The first is to develop and foster five communities of practice to strengthen the current knowledge base surrounding COs Topics will include citizen engagement the value of COs for governance and CO data interoperability In cocreating this knowledge base CO practitioners will have a platform to effectively share best practices and avoid duplication The second will expand the geographical reach of the knowledge base to different target groups via toolkits a Massive Open Online Course capacity development roadshows and an Open Data Exploitation Challenge to strengthen the uptake of COpowered science by public authorities and SMEs A third mechanism will forge links with GEOSS and Copernicus to demonstrate how COs can complement the EUs Earth Observation monitoring framework The WeObserve consortium brings together the current H2020 COs Ground Truth 20 GROW LandSense Scent who will actively open up the CO landscape through wide ranging networks users and stakeholders including ECSA GEOSS and Copernicus to foster social innovation opportunities The WeObserve approach and outcomes have the potential to create a stepchange in EO innovation and make COs a valuable component of managing environmental challenges and empowering resilient communities",
+          "Rcn" : "212929",
+          "Acronym" : "WeObserve"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "1306",
+        "_score" : 126.271484,
+        "_source" : {
+          "identifier" : "ERC2014CoG",
+          "Text" : "Learning From Failing and Passing Executions At the Speed of Internet Modern software systems must be extremely flexible and easily adaptable to different user needs and environments However this flexibility also introduces relevant quality issues These problems are so common that is sufficient browsing the Web to find millions of reports about failures observed after updates and incompatibilities caused by the interaction of a newly installed component with the existing components The impact of problems introduced by endusers can be dramatic because endusers can easily modify applications like developers do but endusers have neither the knowledge nor the skill of developers and they cannot debug and fix the problems that they unintentionally introduce It is thus necessary to timely develop novel solutions that can increase the reliability of the moderns systems which can be extended and adapted by endusers with the capability to automatically address problems that are unknown at developmenttimeThe Learn project aims to produce innovative solutions for the development of systems that can work around the problems introduced by endusers when modifying their applications The three key elements introduced by Learn to automatically produce a temporary fix for the software are 1 the definition of the InternetLearn infrastructure which is a network infrastructure that enables communication between every individual instance of a same program running at different endusers sites thus augmenting each application with the capability to access a huge amount of information collected inthefield from other sites 2 the definition of analysis techniques that can learn the characteristics of successful and failed runs by monitoring executions in the field from a number of instances running at many enduser sites and 3 the definition of techniques for the automatic generation and actuation of temporary fixes on an Internet World scale",
+          "Rcn" : "194474",
+          "Acronym" : "Learn"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "10688",
+        "_score" : 125.63887,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Federation for FIRE Plus The Fed4FIRE project has the objective to run and further improve Fed4FIREs bestintown federation of experimentation facilities for the Future Internet Research and Experimentation initiative Federating a heterogeneous set of facilities covering technologies ranging from wireless wired cloud services and open flow and making them accessible through common frameworks and tools suddenly opens new possibilities supporting a broad range of experimenter communities covering a wide variety of Internet infrastructures services and applicationsFed4FIRE will continuously upgrade and improve the facilities and include technical innovations focused towards increased user satisfaction userfriendly tools privacyoriented data management testbed SLA and reputation experiment reproducibility servicelevel experiment orchestration federation ontologies etc It will open this federation to the whole FIRE community and beyond for experimentation by industry and research organisations through the organization of Open Calls and Open Access mechanismsThe project will also establish a flexible demanddriven framework which allows test facilities to join during the course of its lifetime by defining a set of entry requirements for new facilities to join and to comply with the federationFIRE Experimental Facilities generate an ever increasing amount of research data that provides the foundation for new knowledge and insight into the behaviour of FI systems Fed4FIRE will participate in the Pilot on Open Research Data in Horizon 2020 to offer open access to its scientific results to the relevant scientific data and to data generated throughout the projects lifetimeFed4FIRE will finally build on the existing community of experimenters testbeds and tool developers and bring them together regularly two times a year in engineering conferences to have maximal interaction between the different stakeholders involved",
+          "Rcn" : "207030",
+          "Acronym" : "Fed4FIREplus"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "15200",
+        "_score" : 124.59969,
+        "_source" : {
+          "identifier" : "H2020EUB2017",
+          "Text" : "Remote area Access Network for 5th GEneration 5G is considered the next revolution in communication Several researches focus efforts in tackling challenges for enhancing data rate reducing latency improving connectivity and reducing consumption However there is one relevant mode that has not been strongly supported by the research efforts which is Internet access for remote areas As of today we estimate 14 billion of unconnected people live in areas where mobile broadband coverage is not available showing the immense impact of a network that can deliver high quality Internet access in remote areas It is clear that a sustainable rural service will not be available unless network deployments and business strategies are specifically tailored to this scenario Integrating stateoftheart in mobile communication with business concepts of sharing economy would allow any local entrepreneur to become a profitable mobile rural infrastructure operator with extremely capillary commercialization and operating capabilities The goal of 5GRANGE is surpass the limitations of current technologies making the coverage of low populate areas a feasible business We aim for a cell radius above 50 km with at least 100 Mbps at the edge employing both licensed and unlicensed frequencies while cognitive radio techniques will be used to protect incumbents Clearly this new 5G mode needs to be flexible to comply with different applications and services The current standards cannot use spectral wholes and have limited spectrum mobility A new waveform needs to be considered and the mechanisms in the MAC and Network layers must take advantage of the features of this waveform in order to provide the desirable dynamic and fragmented spectrum allocation The combination of an innovative PHY and a cognitive MAC will result in a 5G mode able to reach the unconnected people not only in Brazil but worldwide This network will also trigger new agribusiness services bringing new revenues for different sectors of our society",
+          "Rcn" : "212224",
+          "Acronym" : "5GRANGE"
+        }
+      }
+    ]
+  }
+}

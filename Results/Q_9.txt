@@ -1,0 +1,256 @@
+{
+  "took" : 45,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 18311,
+    "max_score" : 662.2252,
+    "hits" : [
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "14134",
+        "_score" : 240.3308,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "5G Development and validation platform for global industryspecific network services and Apps Telecommunication networks have become a critical infrastructure for economic growth and social prosperity Current networks will be unable to face the future demands and their increasingly diverse set of services users applications and requirements what is forcing network operators to transform them At the centre of this network transformation is the broadscale deployment of Network Function Virtualization NFV and SoftwareDefined Networking SDN 5GTANGO puts forth the flexible programmability of 5G networks with i a NFVenabled Service Development Kit SDK ii a Store with advanced validation and verification mechanisms for VNFsNetwork Services qualification including 3rd party contributions and iii a modular Service Platform in order to bridge the gap between business needs and network operational management systems  We propose an integrated vendorindependent platform where the outcome of the development kit that is a packaged NFV forwarding graph is automatically tested and validated in the Store for their posterior deployment with a customizable orchestrator compatible with common existing Virtual Infrastructure Managers VIM and SDN controllers in the market This endtoend ecosystem for the agile development and deployment of services realises an extended NFV DevOps model between service developers telecom operators and vertical industries increasing operational efficiency facilitating the implementation and validation of new services and accelerating the adoption of NFV technologies5GTANGO system will be demonstrated in two vertical pilots advanced Manufacturing and immersive Media 5GTANGO will actively promote collaboration and try to influence the SDOs most relevant for the project such as ETSI NFV or IETF as well as the key open source initiatives such as OSM and OpenO It is also 5GTANGOs ambition to make key contributions to the 5GPPP Programme the targeted KPIs and commits to work with its peer 5GPPP projects",
+          "Rcn" : "211063",
+          "Acronym" : "5GTANGO"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "14162",
+        "_score" : 236.87233,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "5G Programmable Infrastructure Converging disaggregated neTwork and compUte REsources The explosive growth of mobile internet traffic introduces the need to transform traditional closed static and inelastic network infrastructures into open scalable and elastic ecosystems supporting new types of connectivity high mobility and new missioncritical services for operators vendors and vertical industries5GPICTURE will develop and demonstrate a converged fronthaul and backhaul infrastructure integrating advanced wireless and novel optical network solutions o address the limitations of the current DRAN and CRAN approaches 5GPICTURE will exploit flexible functional splits that can be dynamically selected to optimise resource and energy efficiencyThis results in a paradigm shift from RAN and CRAN to DisAggregated RAN DARAN DARAN is a novel concept where HW and SW components are disaggregated across the wireless optical and computestorage domains Resource disaggregation allows decoupling these components creating a common pool of resources that can be independently selected and allocated on demand to compose any infrastructure service Key enablers for DARAN are 1 network softwarization migrating from the conventional closed networking model to an open reference platform supported through 2 HW programmability where HW is configured directly by network functions to provide the required performance This will enable provisioning of any service by flexibly mixingandmatching network compute and storage resources without sacrificing performance and efficiency as is the case in todays NFVbased solutionsTo validate these capabilities 5GPICTURE will demonstrate converged fronthaul and backhaul services in a a smart city environment b a 5G railway experimental testbed showcasing seamless service provisioning and mobility management in highspeed moving environments and c a stadium with ultrahigh user density supporting media servicesThe project results will be widely promoted for adoption and standardization",
+          "Rcn" : "211091",
+          "Acronym" : "5G-PICTURE"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "14154",
+        "_score" : 236.3226,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "A HOLISTIC INNOVATIVE FRAMEWORK FOR THE DESIGN DEVELOPMENT AND ORCHESTRATION OF 5GREADY APPLICATIONS AND NETWORK SERVICES OVER SLICED PROGRAMMABLE INFRASTRUCTURE The vision of MATILDA is to design and implement a holistic 5G endtoend services operational framework tackling the  lifecycle of design development and orchestration of 5Gready applications and 5G network services over programmable infrastructure following a unified programmability model and a set of control abstractions It aims to devise and realize a radical shift in the development of software for 5Gready applications as well as virtual and physical network functions and network services through the adoption of a unified programmability model the definition of proper abstractions and the creation of an open development environment that may be used by application as well as network functions developers Intelligent and unified orchestration mechanisms will be applied for the automated placement of the 5Gready applications and the creation and maintenance of the required network slices Deployment and runtime policies enforcement is provided through a set of optimisation mechanisms providing deployment plans based on high level objectives and a set of mechanisms supporting runtime adaptation of the application components andor network functions based on policies defined on behalf of a services provider Multisite management of the cloudedge computing and IoT resources is supported by a multisite virtualized infrastructure manager while the lifecycle management of the supported Virtual Network Functions Forwarding Graphs VNFFGs as well as a set of network management activities are provided by a multisite NFV Orchestrator NFVO Network and applicationoriented analytics and profiling mechanisms are supported based on realtime as well as a posteriori processing of the collected data from a set of monitoring streams The developed 5Gready application components applications virtual network functions and applicationaware network services are made available for opensource or commercial purposes reuse and extension through a 5G marketplace",
+          "Rcn" : "211083",
+          "Acronym" : "MATILDA"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "14132",
+        "_score" : 234.24112,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "5G Mobile Network Architecture for diverse services use cases and applications in 5G and beyond Motivation The expected diversity of services and use cases in 5G requires a flexible adaptable and programmable architecture While the design of such an architecture has been addressed by 5GPPP Phase 1 at a conceptual level it must be brought into practice in Phase 2 To this end 5GMoNArch will i evolve 5GPPP Phase 1 concepts to a fullyfledged architecture ii develop prototype implementations and iii apply these prototypes to representative use casesApproach 5GMoNArch architecture design will combine Phase 1 concepts such as virtualisation slicing and orchestration of access and core functions with three enabling innovations that fill gaps not addressed in Phase 1 i interslice control and crossdomain management to enable the coordination across slices and domains ii experimentdriven optimization to leverage experimental results to design highly performing algorithms and iii cloudenabled protocol stack to gain flexibility in the orchestration of virtualised functionsTestbeds The devised architecture will be deployed in two testbeds i the sea port representative of a vertical industry use case and ii the touristic city representative of a mobile operator deployment For each testbed 5GMoNArch will instantiate the architecture and complement it with a use case specific functionality  the two functional innovations of 5GMoNArch i resilience and security needed to meet the sea port requirements and ii resource elasticity to make an efficient use of the resources in the touristic city Impact 5GMoNArch has a very high potential for commercial impact including enhanced products eg orchestrators or edgecloud RAN novel services enabled by network slicing and opportunities for new market players To exploit this potential 5GMoNArch has elaborated a thorough and realistic innovation plan that includes patents and standards",
+          "Rcn" : "211061",
+          "Acronym" : "5G-MoNArch"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "14138",
+        "_score" : 231.73271,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "5GTRANSFORMER 5G Mobile Transport Platform for Verticals The vision of the 5GTRANSFORMER project is that Mobile Transport Networks shall transform from todays rigid interconnection solutions into an SDNNFVbased 5G Mobile Transport and Computing Platform MTP able of simultaneously supporting an extremely diverse range of networking and computing requirements to meet in particular the specific needs of vertical industries A new networking paradigm known as Network Slicing has emerged for 5G as the most promising approach to address this challenge by enabling per slice management of virtualized resources 5GTRANSFORMER aims to bring the Network Slicing paradigm into mobile transport networks by provisioning and managing MTP slices tailored to the needs of vertical industries Specifically automotive healthcare and media The technical approach is twofold 1 Enable Vertical Industries to meet their service requirements within customised MTP slices and 2 Aggregate and Federate transport networking and computing fabric from the edge up to the core and cloud to create and manage MTP slices throughout a federated virtualized infrastructure The proposed solution defines three novel building blocks that will be developed and demonstrated integrating the aforementioned three vertical industries1 Vertical Slicer as the logical entry point ie one stop shop for verticals to support the creation of their respective transport slices in a short timescale in the order of minutes2 Service Orchestrator to orchestrate the federation of transport networking and computing resources from multiple domains and manage their allocation to slices3 Mobile Transport and Computing Platform as the underlying unified transport stratum for integrated fronthaul and backhaul networksThe 5GTRANSFORMER project addresses ICT 072017 5G PPP Research and Validation of critical technologies and systems with a special focus on the TA11 Converged 5G FlexHaul Network objectives of the prestructuring model",
+          "Rcn" : "211067",
+          "Acronym" : "5G-TRANSFORMER"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "14147",
+        "_score" : 225.14851,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "Programmable edgetocloud virtualization fabric for the 5G Media industry The focus of 5G PPP H2020 remarkable research so far has been largely on the required advances in network architectures technologies and infrastructures Less attention has been put on the applications and services that will make use of and exploit advanced 5G network capabilities 5GMEDIA aims at innovating mediarelated applications by investigating how these applications and the underlying 5G network should be coupled and interwork to the benefit of both In this respect 5GMEDIA addresses the objectives of 1 capitalizing and properly extending the valuable outcomes of the running 5G PPP projects to offer an agile programming verification and orchestration platform for services and 2 developing network functions and applications to be demonstrated in largescale deployments based on 3 welldefined use cases in the areas of immersive media and VR smart production and usergenerated content and UHD over CDN of diverse requirements and particular interest for the consortium partners Based on the adoption of the open innovation approach 5GMEDIA platform will be offered to third parties to develop combine verify deploy and validate media applications by utilizing the SDK capabilities and Service Platform offeringsFinally 5GMEDIA plans to create an ambitious business impact with the introduction of Streaming as a Service concept built on top of a welldefined consortiumwide exploitation plan and supported by the complementarity of expertise of its consortium representing key industrial sectors in the network and media domains telecom operators OTE TID cloud providers SILO PaaSSaaS vendors IBM service providers ENG application developers NETAS broadcasters RTVE SMEs IINV NXW IRT BIT and research centers UCL UPM CERTH It is highlighted that the consortium includes partners with strong and active participation in 5GPPP programme complemented by new but important players on the media  entertainment industry sector",
+          "Rcn" : "211076",
+          "Acronym" : "5G-MEDIA"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "14152",
+        "_score" : 222.6484,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "EndtoEnd Cognitive Network Slicing and Slice Management Framework in Virtualised MultiDomain MultiTenant 5G Networks 5G use cases are so diverse and challenging that the 5G networks must be customisable for the broad range of individual scenarios 5G network providers are keen to offer networks as a service where logical network slices are created and allocated to use cases flexibly and efficiently in a multioperator environment SliceNet will create and demonstrate the tools and mechanisms to achieve this ambition Specifically SliceNet will design prototype and demonstrate an innovative verticalsoriented QoEdriven 5G network slicing framework It will use cognitive network management control and orchestration techniques for the provision and operation of endtoend slicing across multioperator domains in 5G networks SliceNet will systematically tackle a range of the involved outstanding issues and thus directly addresses the key challenges in Strand 3 Software Network in this call ICT072017 The integrated SliceNet framework will be demonstrated in three representative vertical use cases  Smart Grid eHealth and Smart City to highlight the achievements innovations and impacts SliceNet support the unique perspectives and requirements on 5G networks of different players For 5G verticals businesses SliceNet offers an innovative onestop shop solution to meet diverging and demanding service requirements SliceNet enables the verticals to plug and play their use cases with bespoke control to employ 5G slices in a scalable costefficient way via novel mySlice and Scalable Slicing as a Service functions and a onestop API For 5G service providers and users SliceNet provides unprecedented guaranteed service quality by agile cognitive QoEoptimisation of service creation and delivery For 5G network operators SliceNet presents an integrated FCAPS Fault Configuration Accounting Performance Security framework for truly endtoend management control and orchestration of slices by secured interoperable and reliable operations across multioperator domains",
+          "Rcn" : "211081",
+          "Acronym" : "SLICENET"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "4712",
+        "_score" : 222.1629,
+        "_source" : {
+          "identifier" : "H2020MSCAITN2015",
+          "Text" : "Applicationaware Usercentric Programmable Architectures for 5G Multitenant Networks The vision of future 5G networks encompasses a heterogeneous communication landscape in which existing Radio Access Technologies RATs will be integrated with evolving wireless technologies and systems softwaredesign network architectures and cloudenabled services Effectively harnessing the potential of all these innovative and heterogeneous features and providing a programmable multitenant network architectural framework will be the key to the success of 5G and will be the main objective of the 5GAURA project Instead of focusing separately on the optimization of the diverse technological and architectural components our efforts will be concentrated on providing a unifying framework that will sustain the coexistence and coordination of networking software and cloud technologies ensure network programmability and efficient resource orchestration minimize control and signalling overhead support multitenancy and scalability and promote the development of new business models for emerging services To efficiently achieve these objectives 5GAURA has identified 12 specific research challenges which have been mapped to 14 individual projects that will be carried out by 14 recruited ESRs The projects consortium formed by four academic institutions and four industrial partners has the necessary expertise and available infrastructures to form a high quality training network across multiple disciplines sectors and countries Considering that 5G is currently in an early development state and there are multiple open issues on 5G protocols network architectures and technologies and standardization efforts the timing of 5GAURA is perfect and the project has a strong potential to have significant impact on academia and industry and enhance the European innovation capacity in terms of technical contributions intersectoral training of scientists and professional and novel business opportunities",
+          "Rcn" : "198311",
+          "Acronym" : "5G-AURA"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "14143",
+        "_score" : 219.96576,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "Embedded Network Services for 5G Experiences 5G ESSENCE addresses the paradigms of Edge Cloud computing and Small Cell as a Service by fuelling the drivers and removing the barriers in  the Small Cell market forecasted to grow at an impressive pace up to 2020 and beyond and to play a keyrole in the 5G ecosystem 5G ESSENCE provides a highly flexible and scalable platformable to support new business models and revenue streams by creating a neutral host market and reducing operational costs by providing new opportunities for ownership deploymenttoperation and amortisationThe technical approach exploits the benefits of the centralisation of Small Cell functions as scale grows through an edge cloud environment based on a twotier architecture a first distributed tier for providing low latency services and a second centralised tier for providing high processing power for computingintensive network applications This  allows decoupling the control and user planes of the Radio Access Network RAN and achieving the benefits of CloudRAN without the enormous fronthaul latency restrictions The use of endtoend network slicing mechanisms will allow sharing the 5G ESSENCE infrastructure among multiple operatorsvertical industries and customising its capabilities on a pertenant basis The versatility of the architecture is enhanced by highperformance virtualisation techniques for data  isolation latency reduction and resource efficiency and by orchestrating lightweight virtual resources enabling efficient Virtualised Network Function placement and live migration 5G ESSENCE leverages knowledge SW modules and prototypes from various 5GPPP Phase1 projectsSESAME being particularly relevant Building on these foundations very ambitious objectives are targeted culminating with the prototyping and demonstration of 5G ESSENCE system in three reallife use cases associated to vertical industries ie edge network acceleration in a crowded event mission critical applications and inflight communications",
+          "Rcn" : "211072",
+          "Acronym" : "5G ESSENCE"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "14148",
+        "_score" : 215.13121,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "METRO High bandwidth 5G Applicationaware optical network with edge storage compUte and low Latency METROHAUL is a project proposal addressing the Horizon 2020 ICT07 5G PPP call it is an RIA focusing on strand 2 high capacity elastic  optical networks and strand 3 software networks The central topic is costefficient optical metro networks for 5G backhaul The aim of this project is to design and build a smart but costeffective optical metro infrastructure able to support traffic originating from heterogeneous 5G access networks addressing the anticipated capacity increase and its specific characteristics such as mobility low latency and high bandwidth This infrastructure will be able to also support a wide variety of 5G applications with special emphasis on services from various industries vertical to the ICTThis will be achieved by architecting new accessfacing and corefacing nodes complete with storage and compute facilities interconnected by novel spectrally efficient and adaptive optical transmission networks Advanced concepts such as hardware disaggregation and virtualisation will assist in hitting challenging cost targets whilst enabling automation and programmability  all supported by a purposedesigned SDNbased control plane which will interface with client applications intelligently catering for the wide range of 5G KPIs METROHAUL will coordinate the disparate elements of transmission switching networking compute and storage orchestrating dynamic solutions for multiple 5G applications METROHAUL will carry out Proof of Concept demonstrations of its networking solution involving the interconnection of metro node prototypes the use of the projects transmission technologies and the associated control plane and orchestration software The final project demonstrations will also involve the demonstration of actual 5G and vertical services across the METROHAUL testbedAdditionally the project will actively participate in the relevant standardization bodies promoting METROHAUL solutions to the wider community",
+          "Rcn" : "211077",
+          "Acronym" : "METRO-HAUL"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "4042",
+        "_score" : 212.70291,
+        "_source" : {
+          "identifier" : "H2020ICT20142",
+          "Text" : "Small cEllS coordinAtion  for Multitenancy and  Edge services SESAME targets innovations around three central elements in 5G the placement of network intelligence and applications in the network edge through Network Functions Virtualisation NFV and Edge Cloud Computing the substantial evolution of the Small Cell concept already mainstream in 4G but expected to deliver its full potential in the challenging high dense 5G scenarios and the consolidation of multitenancy in communications infrastructures allowing several operatorsservice providers to engage in new sharing models of both access capacity and edge computing capabilities SESAME proposes the CloudEnabled Small Cell CESC concept a new multioperator enabled Small Cell that integrates a virtualised execution platform ie the Light DC for deploying Virtual Network Functions NVFs supporting powerful selfx management and executing novel applications and services inside the access network infrastructure The Light DC will feature lowpower processors and hardware accelerators for time critical operations and will build a high manageable clustered edge computing infrastructure This approach will allow new stakeholders to dynamically enter the value chain by acting as hostneutral providers in high traffic areas where densification of multiple networks is not practical The optimal management of a CESC deployment is a key challenge of SESAME for which new orchestration NFV management virtualisation of management views per tenant selfx features and radio access management techniques will be developed After designing specifying and developing the architecture and all the involved CESC modules SESAME will culminate with a prototype with all functionalities for proving the concept in relevant use cases Besides CESC will be formulated consistently and synergistically with other 5GPPP components through coordination with the corresponding projects",
+          "Rcn" : "197343",
+          "Acronym" : "SESAME"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "9517",
+        "_score" : 209.83397,
+        "_source" : {
+          "identifier" : "H2020EUJ20161",
+          "Text" : "A network slice for every service 5GPagoda represents the next evolution step in softwarized networks as supported by NFV SDN and aimed at by the 5G network evolution The top objectives of 5GPagoda are i the development of a scalable 5G slicing architecture towards supporting specialized network slices composed on multivendor network functions through the development of ii a scalable network slice management and orchestration framework for distributed edge dominated network infrastructures and convergent software functionality for iii lightweight control plane and iv data plane programmability and their integration customization composition and runtime management towards different markets in Europe and Japan 5GPagoda will develop a coherent architecture enabling research and standardization coordination between Europe and Japan The proposed developments integrate with a common SDNNFV based architecture and will additionally provide punctual and highly important developments of the software network architecture The developments address the next steps of the evolution beyond the immediate NFV standardization and developments enabling the graceful integration within endtoend network slices of various highly customized software components remotely controlling the data path with specific network function flexibility and network function placement support and easy to manage through a convergent set of scalable orchestration APIs Besides the technological aspects 5GPagoda will develop a coherent proof of concept with two playground nodes one in Japan and one in Europe using a uniform network orchestration and a set of inslice software features enabling the transparent exchange of knowledge and practical implemented components for dynamic deployment and execution of virtual network functions and applications The testbed will allow practical demonstration of the functionality and will enable the development of an aligned 5Goriented standardization roadmap for Japan and Europe",
+          "Rcn" : "205594",
+          "Acronym" : "5GPagoda"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "14161",
+        "_score" : 200.46922,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "Building on the Use of Spatial Multiplexing 5G Networks Infrastructures and Showcasing Advanced technologies and Networking Capabilties BlueSpace addresses the challenges of increased capacity scalability manageability resource allocation of 5G networks by adopting a pragmatic yet disruptive and future proof approach  The core concept of this project is exploiting the added value of Spatial Division Multiplexing SDM in the Radio Access Network RAN with efficient optical beamforming interface for the pragmatic Kaband wireless transmission band Both being seamlessly integreable in next generation optical access networks infrastructures with massive beam steering capabilities and with flexible networkmanagement  control BlueSpace proposition offers unrivalled characteristics that includea increased bandwidth provision by naturally enabling and supporting massive multiple Input Multiple Output MIMO in the Kaband with seamless startingending interface with the fiber medium by exploiting space diversity in the RF domain with efficient beamsteering in the photonic domain  b A compact infrastructure that is reconfigurable by means of Software Defined SDN and Network Function Virtualization NFV paradigms and withc full integration with existing approaches for access networks such as Passive Optical Networks PONs By achieving its goal BlueSpace is a  truly viable and efficient path for  5G wireless communications with a 1000fold increase in capacity connectivity for over 1 billion users strict latency control and network software programming",
+          "Rcn" : "211090",
+          "Acronym" : "BlueSpace"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "4037",
+        "_score" : 196.63066,
+        "_source" : {
+          "identifier" : "H2020ICT20142",
+          "Text" : "Service Programing and Orchestration for Virtualized Software Networks Virtualisation and software networks are a major disruptive technology for communications networks enabling services to be deployed as software functions running directly in the network on commodity hardware However deploying the more complex userfacing applications and services envisioned for 5G networks presents significant technological challenges for development and deployment SONATA addresses both issuesFor service development SONATA provides service patterns and description techniques for composed services A customised SDK is developed to boost the efficiency of developers of network functions and composed services by integrating catalogue access editing debugging and monitoring analysis tools with service packaging for shipment to an operatorFor deployment SONATA provides a novel service platform to manage service execution The platform complements the SDK with functionality to validate service packages Moreover it improves on existing platforms by providing a flexible and extensible orchestration framework based on a plugin architecture Thanks to SONATAs platform service developers can provide custom algorithms to steer the orchestration of their services for continuous placement scaling lifecycle management and contextualization of services These algorithms are overseen by executives in the service platform ensuring trust and resolving any conflict between servicesBy combining rapid development and deployment in an open and flexible manner SONATA is realising an extended DevOps model for network stakeholdersSONATA validates its approach through novel usecasedriven pilot implementations and disseminates its results widely by releasing its key SDK and platform components as open source software through scientific publications and standards contributions which together will have a major impact on incumbent stakeholders including network operators and manufacturers and will open the market to thirdparty developers",
+          "Rcn" : "197338",
+          "Acronym" : "SONATA"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "955",
+        "_score" : 196.58357,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "USERCENTRIC MANAGEMENT OF SECURITY AND DEPENDABILITY IN CLOUDS OF CLOUDS Today despite its unravelling business benefits distributed cloud computing raises many security and dependability concerns Root causes include increase in complexity and lack of interoperability between heterogeneous often proprietary infrastructure technologies SUPERCLOUD thus proposes new security and dependability infrastructure management paradigms that are  1 usercentric for selfservice cloudsofclouds where customers define their own protection requirements and avoid lockins and 2 selfmanaged for selfprotecting cloudsofclouds that reduce administration complexity through automation SUPERCLOUD will reach the following objectivesSelfService Security Implementation of a cloud architecture that gives users the flexibility to define their own protection requirements and instantiate policies accordinglySelfManaged Security Development of an autonomic security management framework that operates seamlessly over compute storage and network layers and across provider domains to ensure compliance with security policiesEndtoEnd Security Proposition of trust models and security mechanisms that enable composition of services and trust statements across different administrative provider domainsResilience Implementation of a resource management framework that composes provideragnostic resources in a robust manner using primitives from diverse cloud providers The SUPERCLOUD methodology will be validated by testbed integration for realworld use cases in the healthcare domain ranging from deploying a distributed medical imaging platform to running a full laboratory information system The consortium is industryled with partners actively involved in promotion of open source cloud technologies and contributing to major standardization bodies in cloud security intercloud architectures security protocols and SDN SUPERCLOUD will leverage its expertise in these domains to promote and ensure market validity of the research findings",
+          "Rcn" : "194123",
+          "Acronym" : "SUPERCLOUD"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "14126",
+        "_score" : 193.30905,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "E2Eaware Optimizations and advancements for the Network Edge of 5G New Radio ONE5G commits to provide technical investigations and recommendations to evolve 5G towards 5G advanced as requested by the work program Release 15 from 3GPP is about to set up a valuable initial specification for paving the way to reach the ultimate goals for 5G However we see major aspects not yet reasonably covered requiring more research activities to happen  Means ensuring 5G to be consistently rolledout not only in agglomerations but also in less densely populated areas to  avoid the digital divide to occur as in earlier generations Means ensuring 5G to support all foreseen services efficiently and concurrently in a generic way to avoid the emergence of a set of specialised solutions lacking synergy effects such as economy of scale and multiplexing gains Means ensuring 5G to efficiently handle all degrees of heterogeneity stemming from the multiplicity of services and environments network nodes and devices spectrum bands and access types licensed unlicensed and lightly licensedIn ONE5G 14 experienced European players of wireless research are gathering to jointly drive forward the vision of 5G by  delivering advanced link enhancements beyond Release 15 including efficient multiservice access schemes advanced massive MIMO enablers and link management mechanisms researching and proposing highly generic performance optimization schemes for 5G to achieve successful deployment and operation including optimizations for both the network operator and the E2E userexperienced performance identifying the cost driving elements for the rollout and operation and to propose adaptations to allow sustainable provision of wireless services everywhere validating the developed extensions and modifications through different approaches analytically by means of extensive simulations and with selected proofofconcepts producing a high number of valuable publications IPR and standardization contributions",
+          "Rcn" : "211055",
+          "Acronym" : "ONE5G"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "4047",
+        "_score" : 191.77664,
+        "_source" : {
+          "identifier" : "H2020ICT20142",
+          "Text" : "Virtual and programmable industrial network prototype deployed in operational Wind park With anticipated exponential growth of connected devices future networks require an open solutions architecture facilitated by standards and a strong ecosystem Such devices need an easy interface to the connected network to request the kind of communication service characterized by guarantees about bandwidth delay jitter packet loss or redundancy In response the network should grant the requested network resources automatically and program the intermediate networking devices based on device profile and privileges Similar requirement also comes from business applications where application itself asks for particular network resources based on its needs Software Defined Networking SDN and Network Function Virtualisation NFV provide promising combination leading to programmable connectivity rapid service provisioning and service chainingAs a part of 5G PPP programme VirtuWind will develop and demonstrate SDN  NFV ecosystem based on open modular and secure framework showcasing a prototype for intradomain and interdomain scenarios in real wind parks as a representative use case of industrial networks and validate the economic viability of the demonstrated solution The wind park control network has been chosen as a professional application in VirtuWind as wind energy has now established itself as a mainstream of sustainable energy generation By envisioning lower capital expenditure and operational expenditure costs in control network infrastructure VirtuWind will play important role in assisting wind energy sector to achieve cost reductions Further applicability of VirtuWind solution in other industrial domains will bring multifold benefits in their communication networksThe VirtuWind consortium consists of strong industry and academic partners covering the whole value chain of programmable networks The consortium is striving for a common vision of creating industrial capability of SDNNFV in Europe",
+          "Rcn" : "197348",
+          "Acronym" : "VirtuWind"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "975",
+        "_score" : 191.67967,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Enabling Federated Cloud Networking Cloud federation enables cloud providers to collaborate and share their resources to create a large virtual pool of resources at multiple network locations Different types of federation architectures for clouds and datacenters have been proposed and implemented eg cloud bursting cloud brokering or cloud aggregation with different level of resource coupling and interoperation among the cloud resources from loosely coupled typically involving different administrative and legal domains to tightly coupled  federation usually spanning multiple datacenters within an organization In both situations an effective agile and secure federation of cloud networking resources is key to impact the deployment of federated applications The main goal of this project is twofold research and develop techniques to federate cloud network resources and to derive the integrated management cloud layer that enables an efficient and secure deployment of federated cloud applications Our proposal will deliver a homogeneous virtualization layer on top of heterogeneous underlying physical networks computing and storage infrastructures providing enablement for automated federation of applications across different clouds and datacenters The project is fully committed to open source software Cloud networking aspects will be based on OpenDaylight a collaborative project under The Linux Foundation and specifically we will leverage and extend the OpenDOVE project with new rich intercloud APIs to provision crosssite virtual networks overlays The new intercloud network capabilities will be leveraged by existing open source cloud platforms OpenNebula and OpenStack to deploy multicloud applications In particular different aspects of the platforms will be extended to accommodate the federated cloud networking features like multitenancy federated orchestration of networking compute and storage management or the placement and elasticity of the multicloud applications",
+          "Rcn" : "194143",
+          "Acronym" : "BEACON"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "9420",
+        "_score" : 189.69083,
+        "_source" : {
+          "identifier" : "H2020EUJ20161",
+          "Text" : "5G MiEdge Millimeterwave Edge cloud as an enabler for 5G ecosystem Current research efforts on 5G Radio Access Networks RAN strongly focus on mmWave access to realize enhanced mobile broadband eMBB services However there are many unsolved issues to deploy mmW ave 5G RAN The most critical issue is backhauling since it is infeasible to provide 10 Gigabit Ethernet backhaul everywhere Meanwhile Mobile Edge Computing MEC have obtained much attention in 5G networks as a key technology to enable missioncritical low latency applications by allocating storage and computation resources at the edge of the network and circumvent the backhaul networks limited capacity However in the case of mobile networks it is not easy to reallocate computational resources on demand while meeting the strict latency constraints foreseen in 5G networks In this project mmWave access and MEC are firstly combined as a perfect couple of technologies compensating each others weakness The new system is called mmWave edge cloud MiEdge henceforth To facilitate MiEdge the second main goal of the project is to develop a new cellular network control plane in which context information location  traffic classes of applications etc of users are collected and processed to forecast traffic and users requests in order to enable a proactive resource allocation This novel control plane is called liquid RAN Cplane since the services and connections can follow users like a liquid Lastly the users or application providers orchestrate MiEdge to create a userapplication centric 5G network that supports both eMBB and missioncritical applications In summary MiEdge project will develop a feasible 5G ecosystem by combining MiEdge liquid RAN Cplane and userapplication centric orchestration The project will contribute to the standardization of mmWave access and liquid RAN Cplane in 3GPP and IEEE At the end the project will demonstrate a joint 5G testbed in the city of Berlin and 2020 Tokyo Olympic Stadium",
+          "Rcn" : "205497",
+          "Acronym" : "5G MiEdge"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "14159",
+        "_score" : 188.75243,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "Enabling Smart Energy as a Service via 5G Mobile Network advances NRG5 Despite a number of software frameworks and reference architectures have made available for 5G enabling technologies there is a clear gap to bridge towards 5G seamless application with a number of vertical sectors Energy vertical represents undoubtedly one of the most significant test cases for 5G enabling technologies due to the need of addressing a huge range of very diverse requirements to deal with across a variety of applications stringent capacity for smart meteringAMI versus latency for supervisory control and fault localizationHowever to effectively support energy utilities along their transition towards more decentralized renewableoriented systems  several open issues still remain as to 5G networks management automation security resilience scalability and portability  To face these issues NRG5 will research and develop a novel  5G PPPcompliant software framework specifically tailored to the energy domain which combines i trusted scalable and lockin free plug n play support for a  variety  of  constrained devices  ii 5G devices abstractions to demonstrate mMTC uMTC and xMBB communications coupled with partially distributed trusted endtoend security and MCM to enable secure scalable and energy efficient communications iii extended Mobile Edge Computing xMEC microclouds to reduce backhaul load increase the overall network capacity and reduce delays while facilitating the deployment of generic MTCrelated NFVs and utilitycentric VNFs iv an extended 5G ETSIMANO predictive analytics framework to support automated dynamic elastic VNF reconfiguration  Extensive lab based validation will be complemented with real life demonstrations in two pilot sites Italy France where proofofconcept implementations for 5Genabled electricity and gas distribution network optimized management will be offered while offering support to 5G PPP phase III projects via demonstrating high replication potential towards other verticals",
+          "Rcn" : "211088",
+          "Acronym" : "NRG-5"
+        }
+      }
+    ]
+  }
+}

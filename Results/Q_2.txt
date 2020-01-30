@@ -1,0 +1,256 @@
+{
+  "took" : 85,
+  "timed_out" : false,
+  "_shards" : {
+    "total" : 5,
+    "successful" : 5,
+    "skipped" : 0,
+    "failed" : 0
+  },
+  "hits" : {
+    "total" : 18312,
+    "max_score" : 458.2159,
+    "hits" : [
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "13439",
+        "_score" : 199.76413,
+        "_source" : {
+          "identifier" : "H2020DSSC72016",
+          "Text" : "Supporting Cyberinsurance from a  Behavioural Choice Perspective CYBECO will research develop demonstrate evaluate and exploit a new framework for managing cybersecurity risks one that is focusing on cyberinsurance as key risk management treatment CYBECO integrates multidisciplinary research methods from Behavioural Economics Statistics Game and Decision Theory Security Engineering and Behavioral Psychology in order to develop new concepts and models that are combined within a prototype software architecture CYBECO Toolbox 20 CYBECO recognizes that the cyberinsurance domain is not adequately developed partly due to the lack of sufficiently large statistical data sample and partly due to the difficulties customers face when deciding on their cyberinsurance investment options CYBECO will address both these barriers aiming at delivering advances clearly positioned beyond the StateoftheArt We plan to implement a prototype tool that will demonstrate and promote the CYBECO model and concepts We then foresee to perform behavioural experiments to validate current institutional cybersecurity frameworks and to provide relevant policy insights particularly in reference to behavioural nudges in cybersecurity The CYBECO consortium is composed by complementary partners coming from the addressed research technological and market domains that have a proven track record of high quality research capacity Thus the carefully structured workplan embodies a holistic approach towards meeting the CYBECO objectives and delivering marketrelevant outcomes of significant exploitation potential",
+          "Rcn" : "210232",
+          "Acronym" : "CYBECO"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "1133",
+        "_score" : 160.47949,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Modelling the European data economy The Modelling the European Data Economy EuDEco project will assist European science and industry in understanding and exploiting the potentials of data reuse in the context of Big and Open Data big data The aim isto establish a self sustaining data market and thereby increase the competitiveness of Europe To be able to extract the benefits of data reuse it is crucial to know how to understand the underlying economic societal legal and technological framework conditions and challenges to build useful applications and services Despite the amount of activities in this domain an effort is missing to develop use cases and business models that are economic viable legally certain and taking societal needs and concerns into accountEuDEco will accomplish this by leveraging the engagement of other projects conducting pilots on data reuse as well as by the engagement of external experts and stakeholders EuDEco moves beyond the classical approaches by applying the approach of complex adaptive systems to model the data economy in order to indentify value networks use cases and business models for data reuse In the course of the project will develop and refine the data economy model in several steps further by case studies on previous pilots on data reuse by indepth analysis from legal socioeconomic and technological point of view and by extensive tests of use cases and business models with other projects Therefore it will analyse framework conditions relevant and challenges related to data reuse and the emergence of a selfsustaining data marketFinally EuDEco will deliver a model of the data economy including viable use cases and business models as well as suggestions and recommendations addressing the main legal contractual societal and technological concerns and challenges such as contractual framework or data protection Above that EuDEco will develop an observatory for policy makers enabling them to track the development of the data economy",
+          "Rcn" : "194301",
+          "Acronym" : "EuDEco"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "16413",
+        "_score" : 141.79643,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "Prediction and optimisation platform for the mobile assets management Everysens a French SME company expert in IoT and Software as a Service SaaS solutions for the traceability and logistic sectors proposes the next generation of intelligent based tracking solution for the market niches that face the challenges of mobile assets management More precisely this project targets business holding or renting highvalue assets such as construction and public work equipment dumpster of waste and transport and logistic companies eg rail freight logistics Today most mobile tracking systems are addressed to motorised mobile assets and do not have enough autonomy to operate on nonmotorised items as wagons or dumpsters They ensure a so called continuous tracking which practically is limited to sending periodic alerts with no realtime tracking and are not based on intelligent analysis and statistics that allows forecasting Besides current technologies experiment from inefficient data transmission coverage challenges in remote areas and high energy consumption for the sensors Everysens will offer them OMNISCIENT a prediction SaaS platform based on bespoke artificial intelligence not only for inventory but also to allow the realtime mobile asset localisation management and accurate forecasting and planning to enhance operational efficiency of our clients and increase their revenues Our technology presents a data transmission reliability of 98 and its modular structure allows to easily apply different business rules for different market applications In this way our customers will be able to contribute to European Initiatives to improve railway competitiveness such as the Shift2Rail Joint Undertaking S2R JU initiative or the Waste Directive Framework to buildup the traceability capacity along the recycling value chain With the commercialization of OMNISICIENT Everysens expects 103 million of accumulated revenues in 2024 which will require to dimension the company structure with 40 additional employees",
+          "Rcn" : "213660",
+          "Acronym" : "OMNISCIENT"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "3458",
+        "_score" : 133.93675,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Integrated SOlution to enhance COLD chain and logistic tracking ScenarioTransport  Logistic TL sector has experienced a fast expansion in the last decade the temperature controlled supply chain represents a high value added segment that is experiencing a continuous push for service quality Regulators all over the world are constantly introducing more demanding recommendations eg the recent Good Distribution Practise  EU C34301 2013  for the pharmaceutical products On the other hand the high cost of monitoring tracking information and temperature data during transports and the absence of structured ICT solutions to aggregate operative information efficiently risk frustrating regulators effortInnovationERPlan developed a comprehensive ICT solution able to collect and aggregate information from TL operations including track  trace and temperature data that allow the users to have a complete and updated status of deliveries an historical records depot for regulation compliance and a platform to distribute data to its stakeholders Moreover the solution provide logistic floor and mobile systems equipped with state of art RFID technology to minimize impact of data acquisition procedures on workforce efficiencyTarget MarketTransport and logistic companies working with temperature controlled shipments mainly Pharma  Food sectors are all potential users of the solution as well as their stakeholders Pharma  food producers retailers etc with a focus companies operating in last mile delivery scenario mostly SMEsPhase I Objectives To define the investment and the effort that the company should undertake to penetrate efficiently the European market To validate the ability of the solution to bring economical return to the company into a defined period in order to evaluate sustainability of the business plan To quantify the impact of the solution on standard transport  logistic scenarios to create appropriate selling tools Produce a sustainable marketing strategy to enter the European market",
+          "Rcn" : "196653",
+          "Acronym" : "ISO-COLD"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "13321",
+        "_score" : 130.73439,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : """GNSS for massmarket InternetofThings tracking applications Our project intends to foster InternetofThings tracking applications by delivering a breakthrough GNSSbased sensing technology that is lowpower and lowcostGNSS are historically designed for autonomous positioning such as car navigation systems and imply high battery needs for the receivers Observing that tracking applications do not require the asset to know its own position but rather the application itself our innovation introduces a new system approach for small batterypowered electronic devices using lowpower wireless connectivity With our solution they can only sense the GNSS signals and the position is computed in a cloudbased server whereby power consumption is not an issueBy offering a 10X decrease in power consumption compared to stateoftheart technologies and matching with IoT networks constraints our technology meets the crucial requirements in terms of power consumption costs and services in order to address the most significant opportunities in the assets pallets trailers livestock and personal people belongings pets tracking marketsDelivered as geolocation cloud services the solution under development will enable the tracking system providers to tackle massmarkets needs on top of which	For professional usecases Insuring ReturnonInvestment by achieving a costeffective tracker that lasts as long as the object without replacing cells	For consumer usecases Managing enduser acceptance by reaching a compact design while showcasing sufficient autonomyThe feasibility assessment will focus on the economic viability and on the necessary steps for a successful gotomarket strategy While this project covers worldwide challenges in different verticals logistics manufacturing agriculture consumers Europe is at the heart of our developments because1	Europe is currently the de facto cradle of IoT wireless networks2	It will contribute to make Galileo the default option for IoT tracking applications""",
+          "Rcn" : "210106",
+          "Acronym" : "UBIGNSS"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "4948",
+        "_score" : 130.2636,
+        "_source" : {
+          "identifier" : "H2020SMEINST12015",
+          "Text" : "MOMENTUM  virtual mobile CFO for small and medium enterprises MOMENTUM is a virtual and mobile CFO platform fthat helps Small and Mediumsized Enterprises SMEs ensure financial liquidity and growth on EU marketMOMENTUM is an innovative online and mobile platform for registered SMEs The Platform can be accessed on mobile platforms iOS and Android as a separate SaaS Software as a Service on the Atsora website or directly from the bank website as an extension of electronic bankingThe most important features of MOMENTUM platform1 seamlessly integrated with bank account online accounting and other SaaS business applications in order to provide realtime view on business and help with daybyday decisions2 simplifing business planning budgeting forecasting and performance tracking for small businesses and startups3 enabling user to set business goals compare performance to industry benchmarks and see all key numbers in an easytouse dashboard so he knows exactly whats going on in his businessThe Platform integrates together SMEs and business partners banks and other medium and large enterprises providing a wide spectrum of services and products to the SME segment Integration with banks is an important part of the system The entrepreneur can decide to provide more information about his business to the bank and receive thereby easier access to finance on potentially better conditions Therefore the result of the implementation MOMENTUM platform on the European market will be facilitated access to finance for SMEsIn the opinion of the applicant use of the proposed application should improve conditions for the implementation of new technological organizational and marketing actions which is contributing to meeting the objectives set by the EU to stimulate innovation activities of SMEs",
+          "Rcn" : "198563",
+          "Acronym" : "MOMENTUM"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "7749",
+        "_score" : 126.02746,
+        "_source" : {
+          "identifier" : "H2020FCT2015",
+          "Text" : "Internet Forensic platform for tracking the money flow of financiallymotivated malware The Internet has become a key piece of any business activity Criminal activity is not an exception Some crimes previous to the Internet such as thefts and scams have found in the Internet the perfect tool for developing their activities The Internet allows criminals hiding their real identity and the possibility to purchase specific tools for stealing sensitive data with a very low investmentThe overall objective of RAMSES is to design and develop a holistic intelligent scalable and modular platform for Law Enforcement Agencies LEAs to facilitate digital Forensic Investigations The system will extract analyse link and interpret information extracted from Internet related with financiallymotivated malware Customers developers and malware victims will be included in order to obtain a better understanding of how and where malware is spread and to get to the source of the threat To achieve these ambitious objectives this project will rely on disruptive Big Data technologies to firstly extract and storage and secondly look for patterns of fraudulent behaviour in enormous amounts of unstructured and structured data We will focus on 2 case studies ransomware and banking Trojans In order to this RAMSES brings together the latest technologies to develop an intelligent software platform combining scraping of public and deep web detecting manipulation and steganalysis for images and videos tracking malware payments extraction and analysis of malware samples and Big Data analysis and visualizations toolsValidation pilots will take place in three different EU countries Portugal Belgium and Spain being the first a monoLEA pilot in each site and the second a collaborative investigation pilot between several LEAs Commercial potential will be validated during the project supported by a feasibility study to assess determinants for the adoption of the platform and appropriate business models",
+          "Rcn" : "202689",
+          "Acronym" : "RAMSES"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "11540",
+        "_score" : 125.334885,
+        "_source" : {
+          "identifier" : "H2020SMEINST120162017",
+          "Text" : "PROXITRAK  next generation IoT tracking solution for a connected logistics  collect analyse and visualise big data in a true real time ProxiGroup delivers innovative cloud software solutions for effective and inexpensive deployment and management of Internet of Things IoT asset tracking systems exploiting live and actionable Big Data analytics We are a team of experienced entrepreneurs highlyqualified engineers and commercialisation experts Our knowledge experience from the previous projects and a support of investors and business partners providing distribution channels will enable us to introduce disruptive PROXITRAK solution to the marketThe problem we are addressing is limited visibility of assets throughout the enterprise and in the supply chain which generates billions EUR lost every year in the EU The emerging Internet of Things IoT concept is providing opportunity for efficient management of the company assets more than 64 billion connected things will be in use worldwide in 2016 On the other hand expensive site surveys large IT infrastructure requirements deployment cost etc are holding the growth of IoT ProxiGroup is taking this opportunity by offering an innovative software solution which enables 1 true real time tracking of assets enabling immediately identifying and reacting for any potential bottlenecks in the operation globally 2 virtual 3D site surveys for the connected logistics systems providing 5fold decrease in deployment cost 3 full warehouse inventory available anytime in a realtime 4 realtime tracking of multiple locations globally from the cloud PROXITRAK will be offered in a SoftwareasaService model which significantly reduces price for the enduser it will be especially beneficial for the SMEsWithin the proposed Phase 1 SME Instrument project we will conduct a comprehensive feasibility study including a detailed business plan The Phase 2 project will be focused on bringing PROXITRAK from the current TRL 6 to TRL 9 and confirm its technological excellence through pilot deployment with the business partner",
+          "Rcn" : "208145",
+          "Acronym" : "PROXITRAK"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "7412",
+        "_score" : 124.9876,
+        "_source" : {
+          "identifier" : "H2020MSCAIF2015",
+          "Text" : "Smartphonebased Mobile Positioning System This project aims to develop two new estimation paradigms for designing a reliable high precision and realtime mobile positioning system MPS clustering for filtering C4F and fitting for smoothing F4S The present MPS faces two immediate challenges from the real life world First little is known about the background and therefore accurate system modelling is difficult or even impossible and the use of conventional filterssmoothers is challenging or even infeasible Secondly the data is very rich in the sense that it comes from multiple and many types of sensors with improved scanning frequency and accuracy The rich sensor data can be used to circumvent poor background knowledge and to provide a greater breadth of observation regardless of individual sensor failure However it is expected that rich data will also pose a great challenge for real time filtering implementationThis project will develop a new concept Big Sensor to flexibly utilize the rich timevarying sensor data in the concerned MPS and to implement C4F and F4S The Big Sensorbased C4F and F4S use all available information including WIFI Bluetooth GPS signals as well as altitude acceleration and direction information based on embedded software to locate mobile devices The resulting MPS will not rely on sophisticated filters and will therefore be more reliable and computationally fasterThe research emphasis of the project will be on flexible and optimal sensor data inference which is found by developing novel clustering and fitting algorithms The researcher and the partitioning organizations have synergic expertise and solid research track records in the related fields Smartphonebased realistic MPS applications apps will be developed with the potential use of European GNSS The resulting MPS and its apps will be integrated into a Home Care system that the Host group has investigated for the purpose of tracking the movement and wellbeing of elderlydisabled people",
+          "Rcn" : "201659",
+          "Acronym" : "SmartPosition"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "1618",
+        "_score" : 124.040764,
+        "_source" : {
+          "identifier" : "H2020SMEINST12014",
+          "Text" : "Mobile Smart Tracking Antenna System for Remotely Piloted Aircrafts PIDSO an Austrian SME holding several patents specializes in ultralight carbonfibre antenna solutions for diverse applications eg in the automotive sector Based on its outstanding antenna technology knowhow PIDSO recently has developed an innovative communication and control system for Remotely Piloted Aircrafts RPAs which is  compared to competitive solutions  significantly lighter and smaller allowing to mount it on RPAS creating the opportunity for using one RPAS as a relay station for another RPAS thereby dramatically increasing range as well as data transmission features This provides the missing technological base for Beyondlineofsight navigation needed to cross through areas with obstacles like buildings in cities or diverse topographical factors This will pave the way to deploy RPAS for public safety applications disaster rescue  or precision agriculture maturity measurement crop control disease detection fertilizer deployment both unfolding huge commercial and societal impact Our system is an innovative ICT solution building on a proprietary hardware and electronic construction antenna hybrids 2axis gimbal motorcontrol contactless rotary joint plus a highlysophisticated software consisting of initialization tracking algorithms stabilization and closed loop motor controls based on existing and newly developed models position and direction finding and power management Our project fits perfectly with the development and business strategy of PIDSO as well as with the requirements of this SME call adding a completely new market changing solution Specific objectives for the feasibility study include field tests with three test partners in particular RPAS manufacturers to collect feedback from the primary business opportunity fields to be fed into finetuning of the solution to get our product from current to TRL9 building up cost models for production and elaborating a detailed business and market entry plan",
+          "Rcn" : "194787",
+          "Acronym" : "TRACKANT"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "15373",
+        "_score" : 121.3682,
+        "_source" : {
+          "identifier" : "H2020SCC2017",
+          "Text" : "Integrated and Replicable Solutions for CoCreation in Sustainable Cities The IRIS project supports the Lighthouse cities of Utrecht NL Gteborg SE and Nice Cte dAzur FR and their Follower cities Vaasa FI Alexandroupolis GR Santa Cruz de Tenerife ES and Focsani RO to address their urgent need to deliver energy and mobility services in their cities that are cheaper better accessible reliable and that contribute to a better and more sustainable urban quality of lifeBy demonstrating smart solutions that integrate energy mobility and ict rooted in a City Innovation Platform IRIS quantifies their value and connects interests of many different stakeholders in innovative business models allowing for upscale and replication of integrated solutions for sustainable cities across Europe and worldwideTo achieve this IRIS works along five Transition Tracks based on common challenges encompassing 16 integrated solutions that cities can mix and match according to their characteristics and district specific needs Track 1 2 and 3 enhance energy efficiency and utilize grid flexibility by balancing supply and demand dynamically and by 2nd life battery and V2G storage to allow increase of renewable energy production and rollout of ecars and ebuses Track 4 supports this by data sharing a common architecture use of standards and governance practices accelerating innovation standardisation and implementation of affordable smart applications Track 5 integrates interdisciplinary citizen engagement and cocreation in Tracks 1 to 4 connecting the needs of endusers with those of other stakeholders in further support of innovative business models The expected impacts of IRIS are an open innovation ecosystem motivating citizens to act as prosumers more effective urban planning and governance of integrated solutions exploitation of validated innovative business models based on multistakeholder collaboration more stable secure and affordable energy and mobility services for citizens with improved air quality",
+          "Rcn" : "212411",
+          "Acronym" : "IRIS"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "15902",
+        "_score" : 120.68771,
+        "_source" : {
+          "identifier" : "H2020ICT20171",
+          "Text" : "Highperformance datacentric stack for big data applications and operations The new datadriven industrial revolution highlights the need for big data technologies to unlock the potential in various application domains To this end BigDataStack delivers a complete highperformant stack of technologies addressing the emerging needs of data operations and applications The stack is based on a frontrunner infrastructure management system that drives decisions according to data aspects thus being fully scalable runtime adaptable and performant for big data operations and dataintensive applicationsBigDataStack promotes automation and quality and ensures that the provided data are meaningful of value and fitforpurpose through its Data as a Service offering that addresses the complete data path with approaches for data cleaning modelling semantic interoperability and distributed storage BigDataStack introduces a pioneering technique for seamless analytics which analyses data in a holistic fashion across multiple data stores and locations handling analytics on both data in flight and at rest Complemented with an innovative CEP running in federated environments for realtime crossstream processing predictive algorithms and process mining BigDataStack offers a complete suite for big data analytics BigDataStack holistic solution incorporates approaches for datafocused application analysis and dimensioning and process modelling towards increased performance agility and efficiency A toolkit allowing the specification of analytics tasks in a declarative way their integration in the data path as well as an adaptive visualization environment realize BigDataStacks vision of openness and extensibilityWith an emphasis on standardisation and open source contributions targeting high impact BigDataStack will enable data operations and dataintensive applications to take full advantage of the developed technologies exhibiting their applicability through three commercial use cases from the maritime market and financing domains",
+          "Rcn" : "213081",
+          "Acronym" : "BigDataStack"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "10397",
+        "_score" : 120.546974,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "Transforming Transport Big Data will have a profound economic and societal impact in the mobility and logistics sector which is one of the mostused industries in the world contributing to approximately 15 of GDP Big Data is expected to lead to 500 billion USD in value worldwide in the form of time and fuel savings and savings of 380 megatons CO2 in mobility and logistics With freight transport activities projected to increase by 40 in 2030 transforming the current mobility and logistics processes to become significantly more efficient will have a profound impact A 10 efficiency improvement may lead to EU cost savings of 100 BEUR Despite these promises interestingly only 19  of EU mobility and logistics companies employ Big Data solutions as part of value creation and business processesThe TransformingTransport project will demonstrate in a realistic measurable and replicable way the transformations that Big Data will bring to the mobility and logistics market To this end TransformingTransport validates the technical and economic viability of Big Data to reshape transport processes and services to significantly increase operational efficiency deliver improved customer experience and foster new business models TransformingTransport will address seven pilot domains of major importance for the mobility and logistics sector in Europe 1 Smart Highways 2 Sustainable Vehicle Fleets 3 Proactive Rail Infrastructures 4 Ports as Intelligent Logistics Hubs 5 Efficient Air Transport 6 Multimodal Urban Mobility 7 Dynamic Supply Chains The TransformingTransport consortium combines knowledge and solutions of major European ICT and Big Data technology providers together with the competence and experience of key European industry players in the mobility and logistics domain",
+          "Rcn" : "206575",
+          "Acronym" : "TT"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "14145",
+        "_score" : 118.34404,
+        "_source" : {
+          "identifier" : "H2020ICT20162",
+          "Text" : "X5gon Cross Modal Cross Cultural Cross Lingual Cross Domain and Cross Site Global OER Network The proposal X5gon stands for easily implemented freely available innovative technology elements converging currently scattered Open Educational Resources OER available in various modalities across Europe and the globe X5gon combines content understanding user modelling quality assurance methods and tools to boost a homogenous network of OER sites and provides users teachers learners with a common learning experience X5gon deploys open technologies for recommendation learning analytics and learning personalisation services that works across various OER sites independent of languages modalities scientific domains and sociocultural contexts It develops services OER media convergence including full courses course materials modules textbooks videos tests software related events tools materials techniques used to support access to knowledge Fivefold solutions are offered to OER sites Crossmodal technologies for multimodal content understanding Crosssite technologies to transparently accompany and analyse users across sites Crossdomain technologies for cross domain content analytics Crosslanguage technologies for cross lingual content recommendation Crosscultural technologies for cross cultural learning personalisationX5gon collects and index OER resources track data of users progress and feed an analytics engine driven by stateoftheart machine learning improve recommendations via user understanding and match with knowledge resources of all types The project will create three services X5oerfeed X5analytics and X5recommend and run a series of pilot case studies that enable the measurement of the broader goals of delivering a useful and enjoyable educational experience to learners in different domains at different levels and from different cultures Two exploitation scenarios are planned i free use of services for OER ii commercial exploitation of the multimodal big data realtime analytics pipeline",
+          "Rcn" : "211074",
+          "Acronym" : "X5gon"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "1703",
+        "_score" : 117.56061,
+        "_source" : {
+          "identifier" : "H2020DS20141",
+          "Text" : "Privacy and Accountability in Networks via Optimized Randomized Mixnets The objective of the PANORAMIX project is the development of a multipurpose infrastructure for privacypreserving communications based on mixnetworks mixnets and its integration into highvalue applications that can be exploited by European businesses Mixnets protect not only the content of communications from third parties but also obscure the exact identity of the senders or receivers of messages through the use of cryptographic relays Mixnets are absolutely necessary for implementing strong privacypreserving systems and protocols This project directly aims to realize integrate and demonstrate the use of a European infrastructure for mixnets in the context of three diverse highvalue applications that have clear measurable realistic and achievable objectives Our objectives are as follows Objective 1 Building a MixNet Infrastructure for Europe by creating a European mixnetwork opensource codebase and infrastructure Objective 2 apply our infrastructure to private electronic voting protocols where anonymity is necessary to guarantee ballot secrecy and verifiability is needed for holding fair transparent and trustworthy elections Objective 3 apply our infrastructure to privacyaware cloud datahandling in the context of privacyfriendly surveying statistics and big data gathering protocols where protecting the identity of the surveyed users is necessary to elicit truthful answers and incentivize participation Objective 4 apply our infrastructure to privacypreserving messaging where two or more users may communicate privately without third parties being able to track what is said or whoistalkingtowhom PANORAMIX facilitates a genuine collaboration between academia civil society and industry bringing together a team of researchers from academia with a proven track record on privacy technologies and industry in domains where privacy technologies can have a very high impact",
+          "Rcn" : "194872",
+          "Acronym" : "PANORAMIX"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "1017",
+        "_score" : 117.37358,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Scalable Hybrid Variability for Distributed Evolving Software Systems HyVar proposes a development framework for continuous and individualized evolution of distributed software applications running on remote devices in heterogeneous environments The framework will combine variability modeling from software product lines with formal methods and software upgrades and be integrated in existing software development processes HyVars objectives are O1 to develop a Domain Specific Variability Language DSVL and tool chain to support software variability for such applications O2 to develop a cloud infrastructure that exploits software variability as described in the DSVL to track the software configurations deployed on remote devices and to enable i the collection of data from the devices to monitor their behavior and ii secure and efficient customized updates O3 to develop a technology for overtheair updates of distributed applications which enables continuous software evolution after deployment on complex remote devices that incorporate a system of systems and O4 to test HyVars approach as described in the above objectives in an industryled demonstrator to assess in quantifiable ways its benefits HyVar goes beyond the stateoftheart by proposing hybrid variability  ie the automatic generation and deployment of software updates combines the variability model  describing  possible software configurations  with sensor data collected from the device HyVars scalable cloud infrastructure will elastically support monitoring and customization for numerous application instances Software analysis will exploit the structure of the variability models Upgrades will be seamless and sufficiently nonintrusive to enhance the user quality experience without compromising the robustness reliability and resilience of the distributed application instances To maximize impact and innovation the consortium balances carefully selected academic and industrial partners ensuring both technology pull and push",
+          "Rcn" : "194185",
+          "Acronym" : "HyVar"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "8331",
+        "_score" : 117.32852,
+        "_source" : {
+          "identifier" : "H2020FTIPilot20151",
+          "Text" : "New highperformant and longlasting ballast for sustainable railway infrastructures NEOBALLAST is an innovative highperformance longlasting and ecofriendly ballast aggregate solution designed toovercome the two most important shortcomings of railway tracks track degradation and noise and vibration emissions whilstimproving safety and customer service The implementation of NEOBALLAST will improve the economic and environmentalperformance of European railway tracks bringing important socioeconomic benefits to the whole European society As asuitable solution for both new and existing railway lines NEOBALLAST potential market extends to the whole European railnetwork ie beyond 200000km of lines accounting for almost 20 million tonnes of new ballast every year and a relatedturnover about 350MIn order to take this mature and proven technology NEOBALLAST project joins industry partners from different sectorscovering the whole valuechain of NEOBALLAST into a wellbalanced and multidisciplinary team The project has abusinessdriven approach where actions are devised to solve those barriers that may difficult NEOBALLAST quick andextensive market uptake In this sense the main steps to attain a successful and effective market uptake are thedevelopment of a largescale production technology to meet expected market demands the demonstration and validation ofNEOBALLAST in real working environment an effective dissemination across Expert Panel groups to achieve a widedeployment and finally the IPR management exploitation and commercialization of NEOBALLAST through the creation of aNEWCO constituted by all the project parentsThe management structure joins forces with an Advisory Committee that will provide the Consortium with an independentenduser centric viewpoint to the direction and relevance of the work as the project The Advisory Committee will be drawnfrom three Infrastructure Managers track contractor organisations technological platforms and three track expert membersof the Academia",
+          "Rcn" : "204192",
+          "Acronym" : "NEOBALLAST"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "1058",
+        "_score" : 117.3136,
+        "_source" : {
+          "identifier" : "H2020ICT20141",
+          "Text" : "Social Semantic Emotion Analysis for Innovative Multilingual Big Data Analytics Markets MixedEmotions will develop innovative multilingual multimodal Big Data analytics applications that will analyze a more complete emotional profile of user behavior using data from mixed input channels multilingual text data sources AV signal input multilingual speech audio video social media social network comments and structured data Commercial applications implemented as pilot projects will be in Social TV Brand Reputation Management and Call Centre Operations Making sense of accumulated user interaction from different data sources modalities and languages is challenging and has not yet been explored in fullness in an industrial context Commercial solutions exist but do not address the multilingual aspect in a robust and largescale setting and do not scale up to huge data volumes that need to be processed or the integration of emotion analysis observations across data sources andor modalities on a meaningful level MixedEmotions will implement an integrated Big Linked Data platform for emotion analysis across heterogeneous data sources different languages and modalities building on existing state of the art tools services and approaches that will enable the tracking of emotional aspects of user interaction and feedback on an entity level The MixedEmotions platform will provide an integrated solution for largescale emotion analysis and fusion on heterogeneous multilingual text speech video and social media data streams leveraging open access and proprietary data sources and exploiting social context by leveraging social network graphs semanticlevel emotion information aggregation and integration through robust extraction of social semantic knowledge graphs for emotion analysis along multidimensional clusters",
+          "Rcn" : "194226",
+          "Acronym" : "MixedEmotions"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "10689",
+        "_score" : 117.06172,
+        "_source" : {
+          "identifier" : "H2020ICT20161",
+          "Text" : "IntraLogistics with Integrated Automatic Deployment safe and scalable fleets in shared spaces Today intralogistic services have to respond quickly to changing market needs unforeseeable trends and shorter product life cycles These drivers pose new demands on intralogistic systems to be highly flexible rocksolid reliable selfoptimising quickly deployable and safe yet efficient in environments shared with humans ILIAD will enable the transition to automation of intralogistic services with key stakeholders from the food distribution sector where these challenges are particularly pressing We will develop robotic solutions that can integrate with current warehouse facilities extending the state of the art to achieve selfdeploying fleets of heterogeneous robots in multipleactor systems lifelong selfoptimisation manipulation from a mobile platform efficient and safe operation in environments shared with humans and efficient fleet management with formal guarantees Scientifically ILIAD pursues ambitious goals for complex cognitive systems in human environments beyond a specific usecase We will overcome limitations in the state of the art in tracking and analysing humans quantifying map quality and predicting future states depending on activity patterns inferred from longterm observations planning of socially normative movements using learned human models integration of task allocation coordination and motion planning for heterogeneous robot fleets and systematically studying human safety in mixed environments providing a foundation for future safety standards Our consortium is uniquely placed to tackle these challenges and to maximise exploitation beyond the projects duration It includes partners with a proven track record in all key research areas leading technology providers for intralogistics end users that are leading in their respective markets and the National Centre for Food Manufacturing at partner UoL facilitating access to realistic test sites This mix of partners will ensure a very high impact of the project results",
+          "Rcn" : "207031",
+          "Acronym" : "ILIAD"
+        }
+      },
+      {
+        "_index" : "movies",
+        "_type" : "movie",
+        "_id" : "10116",
+        "_score" : 116.69544,
+        "_source" : {
+          "identifier" : "H2020S2RJUOC2016012",
+          "Text" : "Semantic Transformations for Rail Transportation The objective of the proposal is research in semantic ontology based automation of transformations between heterogeneous data formats and its application to a complex aftersales process use case in an actual runtime demonstration scenario The technology will leverage Shift2Rail Interoperability Framework IF components developed in the IT2Rail lighthouse project extending it for use in related Shift2Rail projects under the S2RCFMIP4012015 Shopping booking and ticketing of multimodal travel solutions and S2RCFMIP4022015 Travel companion and tracking services calls  The project will additionally provide a case scenario for exercising the Governance and management structure developed under the related S2ROCIP4012016 IF Governance ensuring its market uptake and sustainability callThe objectives will be achieved through a partnership of specialist participants including research institutions a major European rail operator industry associations representing the rail sector and public transportation authorities and industrial providers of mission critical ICT solutions to the rail sector  Participants which are also involved in the original consortium of designers for the IF in IT2Rail will perform work organised in specific work packages focused on fundamental industrial research in semantic web technologies These technologies will comprise ontology engineering and automated semantic transformations in a dedicated work package to provide the actual runtime demonstration scenario of the application of such technology to transformations of existing European TAPTSI specification exchanges executed on an existing industrial platform for such exchangesThe project extends the capabilities of the IF as described in the Shift2Rail Multi Annual Action Plan contributing to the realisation of a distributed semantic web of transport integrating the TAPTSI specification as one of its elements",
+          "Rcn" : "206228",
+          "Acronym" : "ST4RT"
+        }
+      }
+    ]
+  }
+}
